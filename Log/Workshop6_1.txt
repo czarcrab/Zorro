@@ -1,0 +1,76 @@
+Walk-Forward Test Workshop6_1 portfolio
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 86 min)
+Simulation period   02.05.2005-31.12.2015 (64555 bars)
+Test period         18.06.2009-31.12.2015 (39614 bars)
+Lookback period     2000 bars (17 weeks)
+WFO test cycles     9 x 4401 bars (37 weeks)
+Training cycles     10 x 24941 bars (215 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+
+Gross win/loss      6146$ / -4562$ (+15810p)
+Average profit      242$/year, 20$/month, 0.93$/day
+Max drawdown        -473$ 30% (MAE -658$ 42%)
+Total down time     60% (TAE 91%)
+Max down time       104 weeks from Mar 2013
+Max open margin     352$
+Max open risk       174$
+Trade volume        996492$ (152488$/year)
+Transaction costs   -22$ spr, -7.36$ slp, -53$ rol, -55$ com
+Capital required    673$
+
+Number of trades    921 (141/year, 3/week, 1/day)
+Percent winning     32.0%
+Max win/loss        170$ / -34$
+Avg trade profit    1.72$ 17.2p (+208.0p / -72.7p)
+Avg trade slippage  -0.01$ -0.1p (+0.6p / -0.4p)
+Avg trade bars      160 (+307 / -91)
+Max trade bars      2611 (22 weeks)
+Time in market      373%
+Max open trades     12
+Max loss streak     20 (uncorrelated 19)
+
+Annual return       36%
+Profit factor       1.35 (PRR 1.22)
+Sharpe ratio        0.78
+Kelly criterion     1.69
+R2 coefficient      0.591
+Ulcer index         14.2%
+Prediction error    32%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 49%   208$  493$
+ 20%                 48%   230$  508$
+ 30%                 46%   250$  522$
+ 40%                 45%   275$  539$
+ 50%                 44%   300$  555$
+ 60%                 42%   333$  578$
+ 70%                 40%   375$  606$
+ 80%                 38%   427$  642$
+ 90%                 36%   475$  674$
+ 95%                 35%   516$  701$
+100%                 27%   793$  889$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
+
+EUR/USD avg         .141  1.63  159/276  102.4  XX/XXXXXX
+USD/JPY avg         .026  0.98  136/350   -2.4  XXXXXX\XX
+
+CNTR avg            .089  1.30  190/210   58.5  XXXXX\XXX
+TRND avg            .150  1.46  105/416   41.5  XXXXXX\XX
+
+EUR/USD:CNTR        .220  1.58  107/99    64.9  /X///\XX\
+EUR/USD:CNTR:L      .000  0.99   44/48    -0.6  /\///\/\\
+EUR/USD:CNTR:S      .356  2.12   63/51    65.5  /////\\/\
+EUR/USD:TRND        .259  1.75   52/177   37.6  X//XX/\XX
+EUR/USD:TRND:L      .061  1.18   21/87     4.4  ///\\/\\X
+EUR/USD:TRND:S      .431  2.28   31/90    33.1  \/////\//
+USD/JPY:CNTR        .000  0.92   83/111   -6.4  X/XXX\\XX
+USD/JPY:CNTR:L      .000  0.93   42/61    -3.3  \/\\/\\//
+USD/JPY:CNTR:S      .000  0.92   41/50    -3.1  ////\\\\X
+USD/JPY:TRND        .036  1.10   53/239    3.9  \X\/XX\X\
+USD/JPY:TRND:L      .107  1.39   23/120    7.5  \\\///\/\
+USD/JPY:TRND:S      .000  0.83   30/119   -3.6  \/\/\\\\\

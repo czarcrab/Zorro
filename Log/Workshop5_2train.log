@@ -1,0 +1,49 @@
+
+Train: Workshop5_2  2010..2015
+Parameter 1 step  1:  20.00 => 1.01  68/84
+Parameter 1 step  2:  22.00 => 1.02  72/87
+Parameter 1 step  3:  24.20 => 1.10  79/86
+Parameter 1 step  4:  26.62 => 1.21  85/84
+Parameter 1 step  5:  29.28 => 1.17  88/87
+Parameter 1 step  6:  32.21 => 1.26  91/83
+Parameter 1 step  7:  35.43 => 1.37  85/81
+Parameter 1 step  8:  38.97 => 1.11  75/83
+Parameter 1 step  9:  40.00 => 1.17  75/83
+Selected p1[7] = 35.2  => 1.24
+
+Parameter 2 step  1:  0.50 => 1.01  153/129
+Parameter 2 step  2:  0.60 => 1.07  143/123
+Parameter 2 step  3:  0.70 => 1.30  134/107
+Parameter 2 step  4:  0.80 => 1.16  116/99
+Parameter 2 step  5:  0.90 => 1.33  102/88
+Parameter 2 step  6:  1.00 => 1.37  85/81
+Parameter 2 step  7:  1.10 => 1.04  66/81
+Parameter 2 step  8:  1.20 => 0.88  55/77
+Parameter 2 step  9:  1.30 => 0.99  56/65
+Parameter 2 step 10:  1.40 => 0.80  45/65
+Parameter 2 step 11:  1.50 => 0.69  37/63
+Selected p2[5] = 0.899  => 1.27
+
+Parameter 3 step  1:  2.00 => 1.33  72/117
+Parameter 3 step  2:  2.20 => 1.41  76/113
+Parameter 3 step  3:  2.42 => 1.41  81/108
+Parameter 3 step  4:  2.66 => 1.33  84/105
+Parameter 3 step  5:  2.93 => 1.39  90/99
+Parameter 3 step  6:  3.22 => 1.36  92/97
+Parameter 3 step  7:  3.54 => 1.42  97/92
+Parameter 3 step  8:  3.90 => 1.39  102/87
+Parameter 3 step  9:  4.29 => 1.48  110/79
+Parameter 3 step 10:  4.72 => 1.40  113/76
+Parameter 3 step 11:  5.19 => 1.41  115/74
+Parameter 3 step 12:  5.71 => 1.37  116/73
+Parameter 3 step 13:  6.28 => 1.36  116/73
+Parameter 3 step 14:  6.90 => 1.39  119/70
+Parameter 3 step 15:  7.59 => 1.48  124/65
+Parameter 3 step 16:  8.35 => 1.41  125/64
+Parameter 3 step 17:  9.19 => 1.34  126/63
+Parameter 3 step 18:  10.00 => 1.37  127/62
+Selected p3[9] = 4.31  => 1.43
+
+EUR/USD: 35.2 0.899 4.31=> 1.837
+
+Parameters stored in Workshop5_2_EURUSD.par

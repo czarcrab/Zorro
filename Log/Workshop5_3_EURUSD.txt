@@ -1,0 +1,64 @@
+Walk-Forward Test Workshop5_3 EUR/USD
+
+Simulated account   AssetsFix 
+Bar period          4 hours (avg 350 min)
+Simulation period   03.05.2005-31.12.2015 (16012 bars)
+Test period         19.06.2009-31.12.2015 (9826 bars)
+Lookback period     500 bars (17 weeks)
+WFO test cycles     9 x 1091 bars (37 weeks)
+Training cycles     10 x 6186 bars (213 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+Spread              0.3 pips (roll -0.45/0.21)
+Commission          0.60
+Contracts per lot   1000.0
+
+Gross win/loss      3154$ / -2158$ (+9958p)
+Average profit      152$/year, 13$/month, 0.59$/day
+Max drawdown        -393$ 39% (MAE -395$ 40%)
+Total down time     85% (TAE 91%)
+Max down time       85 weeks from Jan 2013
+Max open margin     130$
+Max open risk       194$
+Trade volume        291345$ (44587$/year)
+Transaction costs   -6.66$ spr, 0.14$ slp, -23$ rol, -13$ com
+Capital required    396$
+
+Number of trades    222 (34/year, 1/week, 1/day)
+Percent winning     63.5%
+Max win/loss        92$ / -66$
+Avg trade profit    4.49$ 44.9p (+223.7p / -266.5p)
+Avg trade slippage  0.00$ 0.0p (+0.4p / -0.8p)
+Avg trade bars      62 (+53 / -79)
+Max trade bars      285 (9 weeks)
+Time in market      142%
+Max open trades     5
+Max loss streak     8 (uncorrelated 6)
+
+Annual return       38%
+Profit factor       1.46 (PRR 1.20)
+Sharpe ratio        0.72
+Kelly criterion     1.33
+R2 coefficient      0.634
+Ulcer index         10.5%
+Prediction error    43%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 49%   268$  312$
+ 20%                 46%   292$  328$
+ 30%                 45%   307$  338$
+ 40%                 43%   335$  357$
+ 50%                 41%   358$  372$
+ 60%                 39%   383$  389$
+ 70%                 38%   407$  405$
+ 80%                 35%   453$  437$
+ 90%                 33%   491$  463$
+ 95%                 30%   549$  502$
+100%                 19%   983$  796$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
+
+EUR/USD             .131  1.46  141/81   100.0  /X///\XXX
+EUR/USD:L           .000  0.97   57/44    -3.2  /\///\/\X
+EUR/USD:S           .211  1.97   84/37   103.2  /////\\/\

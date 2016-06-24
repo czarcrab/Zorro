@@ -1,0 +1,7828 @@
+
+LoadAssets AssetsFix
+BrokerAsset AUD/USD: 
+! id 6
+Alloc AUD/USD prices
+BrokerTime: 07.06.2016  17:37:08: 2 0.025173 ms
+Asset AUD/USD status AUD/USD:L 257704280 1
+Asset AUD/USD status AUD/USD:S 257704280 1
+
+Trade: TradeTest AUD/USD 07.06.2016
+
+New bar min 2 server 42528.7341 next 42528.7347
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:08: 2 0.035840 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.043093 ms
+!AUD/USD: 0.74484 0.00004 1 1
+HandleTrades
+TradeValue
+Account
+BrokerAccount: : 1 0.008960 ms
+07.06.2016 17:37:08   
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:08: 2 0.144640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.030720 ms
+!AUD/USD: 0.74484 0.00004 1
+No Quote
+Account
+BrokerAccount: : 1 0.007680 ms
+07.06.2016 17:37:08   0.74484 *
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:08: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+!AUD/USD: 0.74484 0.00004 1
+No Quote
+Account
+BrokerAccount: : 1 0.007680 ms
+07.06.2016 17:37:08   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:08: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+!AUD/USD: 0.74484 0.00004 1
+No Quote
+Account
+BrokerAccount: : 1 0.007680 ms
+07.06.2016 17:37:08   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:08: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:08   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:09   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:10   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:10   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:10   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:10   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:10   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:10   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:10: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:10   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:11: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:11   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:12   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:12   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:12   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:12   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:12   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:12: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:12   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.038400 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:13: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:13   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:14: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:14   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:14: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:14   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:14: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:14   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:14: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:14   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:15: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:15   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:15: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:15   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:15: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:15   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:15: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:15   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:15: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:15   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037120 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:16: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:16   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:17   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:17   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:17   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:17   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.030720 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:17   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:17: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.036693 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:17   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:18: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:18   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:19: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:19   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.058880 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:20: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:20   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:21   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:21   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:21   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:21   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:21   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:21: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:21   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:22: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms 2
+HandleTrades
+TradeValue
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:22   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:22: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:22   0.74486 *
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:22: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032427 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:22   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:23: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:23   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:24   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:24   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:24   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:24   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:24   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:24: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:24   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:25: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:25   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:26   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:26: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:26   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:26: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:26   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:26   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:26: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032000 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007253 ms
+07.06.2016 17:37:26   0.74485
+Messages
+Buy 1L AUD/USD Stop 0.0000 at 17:37
+Trade: units 1000.00 price 0.74486 lots 1
+BrokerBuy AUD/USD: 
+! id 6
+BrokerBuy AUD/USD: 653 ms (r=95332887 n=1000 p=0.74485 s=0.00000)
+[AUD/USD::L2887] Long 1@0.7448  at 17:37
+Stop: 0.0000 Trail: 0.0000 Units: 1000.00
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:27: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.008107 ms
+07.06.2016 17:37:27   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:27: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032000 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:27   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:27: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:27   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:27: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:27   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:28   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:28: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:28   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:28   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:28   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:28: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:28   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms 3
+HandleTrades
+Handle: 95332887
+BrokerTrade 95332887:  1000 0.003413 ms tick
+TradeValue
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:29   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:29   0.74484 *
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:29: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:29   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007253 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:30: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:30   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:31: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:31   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:31: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:31   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:31: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:31   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:32: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:32   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:32: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:32   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:32: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:32   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:32: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:32   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:32: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:32   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:33: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:33   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:34: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:34   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:35: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:35   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:36: 2 0.023040 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:36   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:36: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:36   0.74484
+Messages
+BrokerSell 95332887,1000: 
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 133 ms 0
+[AUD/USD::L2887] Can't close 1@0.7448 at 17:37
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037120 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:37: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:37   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.012373 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.024747 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:38: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:38   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:39: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:39   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:40: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:40   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:41: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:41   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:42: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:42   0.74484
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:42: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:42   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:42: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024747 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:42   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:42: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:42   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:42: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:42   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:43: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:43   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:43: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:43   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:43: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:43   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:44   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:44   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:44   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:44   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms 4
+HandleTrades
+Handle: 95332887
+BrokerSell 95332887,1000: 
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 104 ms 0
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:37 close command 1
+TradeValue
+BrokerTrade 95332887:  1000 0.008107 ms
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:44   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:44: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:44   0.74486 *
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.024747 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032427 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:45: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:45   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.021760 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007253 ms
+07.06.2016 17:37:46   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:46   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:46   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:46   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:46   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:46: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:46   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:47: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:47   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:48   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:48   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:48   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:48   0.74485
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:48   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:48: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:48   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:49   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:49   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:49   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032427 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:49   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:49   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:49: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:49   0.74486
+Messages
+Copied to Clipboard!
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:50: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:50   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:50: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:50   0.74486
+Messages
+UTC 07.06. 17:37
+BrokerTime: 07.06.2016  17:37:50: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:50   0.74486
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:51   0.74486
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.147200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:51   0.74486
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:51   0.74486
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034133 ms 5
+HandleTrades
+Handle: 95332887 close command 1
+TradeValue
+BrokerTrade 95332887:  1000 0.003840 ms
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:51   0.74486
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:51   0.74484 *
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:51: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:51   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:52: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:52   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:53: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:53   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.031573 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.048640 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:54: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.040960 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:54   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.046080 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.027307 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.022613 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.043947 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:55: 2 0.027733 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.075093 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:55   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:56: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:56   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:56: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.045653 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:56   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:56: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.044373 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:56   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.040107 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037120 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:57   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.042667 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:57   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.040107 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:57   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:57   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.021760 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:37:57   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:57: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:57   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.049920 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.050773 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.062293 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:58: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:58   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.023040 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:37:59: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036693 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:37:59   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:00   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:00   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:00   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.019200 ms
+Server 42528.7347 next 42528.7347 bar 0
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.043520 ms
+Gaps - ok
+
+[Tue 07.06.16 17:38]  45147 +0 -0 \
+run 1
+return
+New bar min 3 server 42528.7347 next 42528.7354
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms 1
+HandleTrades
+Handle: 95332887 close command 1
+TradeValue
+Account
+BrokerAccount: : 1 0.007253 ms
+07.06.2016 17:38:00   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:00   0.74485 *
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:00: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:00   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:01: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:01   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:01: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:01   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:01: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:01   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:02: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:02   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:02: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:02   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:02: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:02   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:02: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:02   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:02: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:02   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.051627 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:03: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:03   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.011947 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.023893 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:04: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.049067 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:04   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:05: 2 0.046080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.069547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.012800 ms
+07.06.2016 17:38:05   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:05: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:05   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:05: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:05   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:05: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:05   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:05: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:05   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:06   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:06   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:06   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:06   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:06   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:06: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:06   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:07   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:07   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:07   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:07   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:07   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:07: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:07   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:08: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:08   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:08: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:08   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:08: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:08   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:09   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:09   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:09   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:09   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:09   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:09   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.030293 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024747 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:10: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:10   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.024320 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:11   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:11   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.025173 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.032427 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:11   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:11   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:11   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:11: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:11   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.036693 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:12: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:12   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:13: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:13   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.024320 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:14: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:14   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:15: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:15   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:15: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:15   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:15: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:15   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:16   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:16   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:16   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.024320 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.036693 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:38:16   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:16   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:16: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:16   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.022613 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037973 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:17: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.054613 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:17   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:18   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:19: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:19   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:20: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:20   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:21: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:21   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:21: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:21   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:21: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:21   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:22: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:22   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.022613 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037120 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.023893 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:23: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:23   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:24: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:24   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:24: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:24   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:24: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:24   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:24: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:24   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:24: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:24   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:25   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:25   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:25   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:25   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:25   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:25   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:25: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:25   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:26   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:27: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:27   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:27: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:27   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:27: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:38:27   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.027733 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.087467 ms
+No Quote
+Account
+BrokerAccount: : 1 0.008533 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:28   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:29: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.025600 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:29   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:30: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:30   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:31: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:31   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:32: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:32   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:32: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:32   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:32: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:32   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:32: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:32   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:32: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:32   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:33: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:33   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:33: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:33   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:33: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:33   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:34: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:34   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:34: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:34   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:34: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:34   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:34: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:34   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:35: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:35   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:35: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:35   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:35: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:35   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:35: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:35   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:35: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:35   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:37   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.012373 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.024320 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:37   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:37   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.022187 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:37   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:37   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:37: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:37   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:38: 2 0.025600 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.048640 ms
+No Quote
+Account
+BrokerAccount: : 1 0.008107 ms
+07.06.2016 17:38:38   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.024747 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:39: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.037120 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:39   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:40   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:40   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:40   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:40   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:40   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:40: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:40   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:41: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:41   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:41: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:41   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:41: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:41   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:41: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:41   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:41: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:41   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024747 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:42   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034133 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:42   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:42   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.025173 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:42   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:42   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:42: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:42   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:43: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:43   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:44   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:44   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:44   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:44   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:44   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:44: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:44   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:45: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:45   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:46: 2 0.011947 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.023467 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:38:46   0.74484
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:46: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:46   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:46: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:46   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:47: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:47   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:48: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:48   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:49: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:49   0.74485
+Messages
+UTC 07.06. 17:38
+BrokerTime: 07.06.2016  17:38:49: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:49   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:50: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:50   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:50: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:50   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:51: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:51   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.040533 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.044800 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.031147 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.040107 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.028587 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.075947 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:52: 2 0.031147 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:52   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:53: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.045227 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:53   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:53: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.053333 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:53   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:53: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.046507 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:53   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:53: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.044800 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:53   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:53: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.038827 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:53   0.74485
+Messages
+BrokerSell 95332887,1000: 
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 94 ms 0
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:38
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.046080 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.023893 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.053760 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.023893 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.026453 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.023040 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.041387 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:54: 2 0.026027 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:54   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:55: 2 0.027307 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:55   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:55: 2 0.026880 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036693 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:55   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:55: 2 0.023893 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.081920 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:55   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:55: 2 0.023467 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.030293 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:55   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:55: 2 0.017067 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.038400 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:55   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.040107 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.052053 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:56: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.018773 ms
+07.06.2016 17:38:56   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:57: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:57   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:57: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:57   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:57: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:57   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.021760 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:58: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:58   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:38:59: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:38:59   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:39:00: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:39:00   0.74485
+Messages
+UTC 07.06. 17:39
+BrokerTime: 07.06.2016  17:39:00: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:39:00   0.74485
+Messages
+Buy 1S AUD/USD Stop 0.0000 at 17:39
+Trade: units 1000.00 price 0.74485 lots 1
+BrokerSell 95332887,1000: 
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 62 ms 0
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:39
+BrokerBuy AUD/USD: 
+! id 6
+BrokerBuy AUD/USD: 61637 ms (r=-2 n=-1000 p=0.74485 s=0.00000)
+Error 070 - possibly orphaned trade
+-1000 AUD/USD at 07.06. 17:40:11 UTC
+(AUD/USD::S) 17:39 Can't open 1@0.7449
+Cancelled (400)
+Buy: failed
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.016640 ms
+Server 42528.7361 next 42528.7354 bar 0
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.043093 ms
+Gaps - ok
+
+[Tue 07.06.16 17:40]  45147 +0 -0 \
+run 2
+return
+New bar min 5 server 42528.7361 next 42528.7368
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.023467 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.039680 ms 1
+HandleTrades
+Handle: 95332887
+BrokerSell 95332887,1000: 
+!Broker closed 95332887
+BrokerSell AUD/USD: 5 ms 95332887
+BrokerTrade 95332887:  -1000 0.011520 ms
+[AUD/USD::L2887] Sell 1@0.7448: -0.05 at 17:40
+Entr 0.7448 Exit 0.7448 Spr 0.0000 Slp -0.01$ Rol 0.08$ Com 0.06$ close command 2 0 removed
+TradeValue
+Portfolio
+Account
+BrokerAccount: : 1 0.011520 ms
+07.06.2016 17:40:02   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.032427 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:02   0.74484 *
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:02   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.030293 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:02   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.032000 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:02   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.024747 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:02   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:02: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:02   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.025173 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.021760 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.131413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007680 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:03: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:03   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:04: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:04   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:04: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:04   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:04: 2 0.018347 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032853 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:04   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:04: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:04   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:04: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:04   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:05: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.032000 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:05   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.030293 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:06   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:06   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:06   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:06   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:06   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:06: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:06   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:07   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:07   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:07   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:07   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007253 ms
+07.06.2016 17:40:07   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:07   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:07: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:07   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:08: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:08   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:08: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:08   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:08: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:08   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:09   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.019627 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:09   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:09   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.012373 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024320 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:09   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:09   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:09   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:09   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:09: 2 0.020053 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:09   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:10: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:10   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:10: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:10   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:10: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:10   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:10: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:10   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:11: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:11   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:12: 2 0.028160 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.042667 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:12   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:12: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:12   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:12: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.078933 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:12   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:12: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:12   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:12: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:12   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031147 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:13: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:13   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:14   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:14   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:14   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:14   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:14   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:14: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:14   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:15: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:15   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:15: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:15   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:15: 2 0.033707 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.052480 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:15   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:16   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:16   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.023467 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.042240 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:16   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:16   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:16   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:16: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:16   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:17   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:17   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:17   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:17   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:17   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:17: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:17   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.037973 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:18: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7448 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:18   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:19   0.74484
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:19   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:19   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:19   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:19   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:19: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:19   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.021760 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:20: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033280 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:20   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:21: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:21   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:21: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:21   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:21: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:21   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.033707 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:22: 2 0.017920 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034560 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:22   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:23: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:23   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:23: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:23   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:23: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024747 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:23   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:23: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.037547 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:23   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:23: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:23   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.011947 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.020907 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:24: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:24   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:25: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:25   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:26: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:26   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:26: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:26   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:26: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:26   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:26: 2 0.028160 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.040107 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:26   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:27: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:27   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:27: 2 0.012373 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.024320 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:27   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:27: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:27   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:27: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:27   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.012800 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.025600 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:28: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:28   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.016640 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:29: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:29   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.036267 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:30: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026453 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:30   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:31: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:31   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:31: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:31   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:31: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.031573 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:31   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:31: 2 0.020480 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006827 ms
+07.06.2016 17:40:31   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:31: 2 0.021333 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035840 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:31   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:32: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:32   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:33: 2 0.017493 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.044373 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:33   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:34: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:34   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:34: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028160 ms
+No Quote
+Account
+BrokerAccount: : 1 0.007680 ms
+07.06.2016 17:40:34   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:35: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027733 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:35   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:35: 2 0.016213 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:35   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:35: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.027307 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:35   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:35: 2 0.014933 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:35   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:35: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029440 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:35   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.013653 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026027 ms
+No Quote
+Account
+BrokerAccount: : 1 0.004693 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.019200 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.034987 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.015787 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.028587 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.013227 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.025173 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.014080 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.026880 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005120 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:36: 2 0.015360 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029867 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005973 ms
+07.06.2016 17:40:36   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:37: 2 0.018773 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.035413 ms
+No Quote
+Account
+BrokerAccount: : 1 0.006400 ms
+07.06.2016 17:40:37   0.74485
+Messages
+UTC 07.06. 17:40
+BrokerTime: 07.06.2016  17:40:37: 2 0.014507 ms
+Prices
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.029013 ms
+No Quote
+Account
+BrokerAccount: : 1 0.005547 ms
+07.06.2016 17:40:37   0.74485
+Messages
+Server 42528.7365 next 42528.7368 bar 0
+BrokerAsset AUD/USD: 
+! id 6: 0.7449 0.049920 ms
+Gaps - ok
+Exit State 0 TA-Lib Series Statistics Performance
+Raus
+Neural
+Login FXCM 1->0
+Logout..
+BrokerLogout: 0 2.631679 ms ok
+Close files
+xxx

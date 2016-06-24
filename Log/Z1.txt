@@ -1,0 +1,123 @@
+Walk-Forward Test Z1 portfolio
+
+Simulated account   AssetsFix 
+Bar period          4 hours (avg 338 min)
+Simulation period   29.04.2010-26.04.2016 (9315 bars)
+Test period         26.02.2013-26.04.2016 (4903 bars)
+Lookback period     500 bars (17 weeks)
+WFO test cycles     10 x 490 bars (16 weeks)
+Training cycles     11 x 4412 bars (152 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+
+Gross win/loss      17044$ / -13050$ (+238118p)
+Average profit      1264$/year, 105$/month, 4.86$/day
+Max drawdown        -833$ 21% (MAE -1042$ 26%)
+Total down time     58% (TAE 96%)
+Max down time       26 weeks from Feb 2014
+Max open margin     403$
+Max open risk       11191$
+Trade volume        3144468$ (995105$/year)
+Transaction costs   -168$ spr, -333$ slp, 0.01$ rol, -114$ com
+Capital required    1216$
+
+Number of trades    1221 (387/year, 8/week, 2/day)
+Percent winning     39.3%
+Max win/loss        507$ / -135$
+Avg trade profit    3.27$ 195.0p (+2117.4p / -1050.2p)
+Avg trade slippage  -0.27$ -16.3p (+4.7p / -29.9p)
+Avg trade bars      32 (+53 / -18)
+Max trade bars      596 (20 weeks)
+Time in market      812%
+Max open trades     15
+Max loss streak     17 (uncorrelated 15)
+
+Annual return       104%
+Profit factor       1.31 (PRR 1.20)
+Sharpe ratio        1.17
+Kelly criterion     1.32
+R2 coefficient      0.729
+Ulcer index         9.6%
+Prediction error    16%
+Cycle performance   1.28 1.23 1.30 1.42 
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                146%   477$  868$
+ 20%                137%   532$  922$
+ 30%                130%   580$  968$
+ 40%                124%   629$  1016$
+ 50%                119%   676$  1062$
+ 60%                114%   726$  1111$
+ 70%                109%   771$  1154$
+ 80%                103%   842$  1224$
+ 90%                 96%   941$  1320$
+ 95%                 89%  1045$  1422$
+100%                 68%  1493$  1858$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
+
+AUD/USD avg         .000  ----    0/0      0.0  ..........
+EUR/USD avg         .125  1.83   46/54     9.1  XXXXXXXXXX
+GBP/USD avg         .074  1.17   58/101    3.6  XXXXXXXXXX
+GER30 avg           .013  1.11   22/49     5.6  XX/\/XXXXX
+NAS100 avg          .036  1.45  130/186   67.9  XX/X/X/XXX
+SPX500 avg          .000  ----    0/0      0.0  ..........
+UK100 avg           .000  ----    0/0      0.0  ..........
+US30 avg            .000  ----    0/0      0.0  ..........
+USD/CAD avg         .049  1.37  121/180   23.3  XXXX\X/XXX
+USD/CHF avg         .000  ----    0/0      0.0  ..........
+USD/JPY avg         .065  1.20   89/136    5.2  XXXXXXX\XX
+XAG/USD avg         .075  1.88   17/20     0.2  ////\/\\/\
+XAU/USD avg         .018  1.79   49/67    19.2  ///\/\///\
+
+ES avg              .026  0.90   21/44    -0.8  XXXX/\.XXX
+HU avg              .066  1.18  188/245   26.2  XXXXXXXXXX
+LP avg              .016  1.26   19/52     1.8  X\\/XXXXXX
+VO avg              .073  1.55  304/452  106.9  XXXXXXXXXX
+
+EUR/USD:ES          .682  1.60   14/26     0.9  /\\//\.///
+EUR/USD:ES:L        .000  ----    0/0      0.0  ..........
+EUR/USD:ES:S        .682  1.60   14/26     0.9  /\\//\.///
+EUR/USD:HU          .000  0.96   15/16    -0.2  \//\////\X
+EUR/USD:HU:L        .000  ----    0/0      0.0  ..........
+EUR/USD:HU:S        .000  0.96   15/16    -0.2  \//\////\X
+EUR/USD:VO          .393  3.11   17/12     8.4  //X/\/X\//
+EUR/USD:VO:L        .146  1.11    7/9      0.3  ///.\.\\./
+EUR/USD:VO:S        .682  11.74   10/3     8.1  ./\/.//./.
+GBP/USD:HU          .154  1.13   39/49     1.8  XXX\/XX\XX
+GBP/USD:HU:L        .147  1.10   19/25     0.6  /\/\/\/\\X
+GBP/USD:HU:S        .158  1.15   20/24     1.2  \/\\//\\//
+GBP/USD:LP          .218  1.26   19/52     1.8  X\\/XXXXXX
+GBP/USD:LP:L        .254  1.35   10/26     1.2  \\\//\\/\/
+GBP/USD:LP:S        .183  1.17    9/26     0.6  /\\/\//\/\
+GER30:ES            .000  0.72    7/18    -1.7  \//\/\.\\\
+GER30:ES:L          .000  0.72    7/18    -1.7  \//\/\.\\\
+GER30:ES:S          .000  ----    0/0      0.0  ..........
+GER30:HU            .114  1.16   15/31     7.3  X\/\/XXX/X
+GER30:HU:L          .130  2.06    7/12    17.8  \\.\//////
+GER30:HU:S          .000  0.64    8/19   -10.6  /\/\/\\\/\
+NAS100:HU           .118  1.29   35/44    15.5  \X/\/\/XXX
+NAS100:HU:L         .123  1.41   20/22    11.8  \//\/\/\//
+NAS100:HU:S         .113  1.15   15/22     3.8  \\/\/.//\X
+NAS100:VO           .129  1.53   95/142   52.3  //////////
+NAS100:VO:L         .129  1.53   95/142   52.3  //////////
+NAS100:VO:S         .000  ----    0/0      0.0  ..........
+USD/CAD:HU          .123  1.10   35/37     1.3  /\X/\X/XXX
+USD/CAD:HU:L        .155  1.43   17/18     2.5  /\//\////\
+USD/CAD:HU:S        .000  0.83   18/19    -1.3  /\\/\\/\\/
+USD/CAD:VO          .161  1.45   86/143   22.0  \XXX\\/XX/
+USD/CAD:VO:L        .213  1.74   51/65    17.9  \//\\\////
+USD/CAD:VO:S        .127  1.17   35/78     4.1  \\\/\\/\\/
+USD/JPY:HU          .122  1.03   32/48     0.3  XXX\XX/\/X
+USD/JPY:HU:L        .212  1.25   18/20     0.9  /\/\///\/\
+USD/JPY:HU:S        .000  0.89   14/28    -0.6  \/\\\\/\/X
+USD/JPY:VO          .206  1.29   57/88     4.9  /XX/XX\\XX
+USD/JPY:VO:L        .442  2.25   33/34     8.9  //////\./\
+USD/JPY:VO:S        .000  0.61   24/54    -3.9  /\\/\\\\\/
+XAG/USD:HU          .682  1.88   17/20     0.2  ////\/\\/\
+XAG/USD:HU:L        .000  ----    0/0      0.0  ..........
+XAG/USD:HU:S        .682  1.88   17/20     0.2  ////\/\\/\
+XAU/USD:VO          .163  1.79   49/67    19.2  ///\/\///\
+XAU/USD:VO:L        .000  ----    0/0      0.0  ..........
+XAU/USD:VO:S        .163  1.79   49/67    19.2  ///\/\///\

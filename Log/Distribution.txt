@@ -1,0 +1,7 @@
+Test Distribution portfolio
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 86 min)
+Test period         20.09.2011-15.01.2015 (20085 bars)
+Lookback period     80 bars (3 days)
+Assumed slippage    10.0 sec

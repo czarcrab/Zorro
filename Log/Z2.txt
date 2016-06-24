@@ -1,0 +1,169 @@
+Walk-Forward Test Z2 portfolio
+
+Simulated account   AssetsFix 
+Bar period          4 hours (avg 338 min)
+Simulation period   29.04.2010-26.04.2016 (9315 bars)
+Test period         26.02.2013-26.04.2016 (4903 bars)
+Lookback period     500 bars (17 weeks)
+WFO test cycles     10 x 490 bars (16 weeks)
+Training cycles     11 x 4412 bars (152 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+
+Gross win/loss      30175$ / -22862$ (+243124p)
+Average profit      2314$/year, 193$/month, 8.90$/day
+Max drawdown        -1399$ 19% (MAE -1767$ 24%)
+Total down time     59% (TAE 96%)
+Max down time       41 weeks from Oct 2015
+Max open margin     898$
+Max open risk       21758$
+Trade volume        4291737$ (1358172$/year)
+Transaction costs   -255$ spr, -412$ slp, -82$ rol, -134$ com
+Capital required    2261$
+
+Number of trades    1507 (477/year, 10/week, 2/day)
+Percent winning     55.0%
+Max win/loss        495$ / -182$
+Avg trade profit    4.85$ 161.3p (+1210.0p / -1120.9p)
+Avg trade slippage  -0.27$ -9.1p (+2.6p / -23.4p)
+Avg trade bars      60 (+67 / -50)
+Max trade bars      691 (23 weeks)
+Time in market      1863%
+Max open trades     33
+Max loss streak     15 (uncorrelated 10)
+
+Annual return       102%
+Profit factor       1.32 (PRR 1.23)
+Sharpe ratio        1.21
+Kelly criterion     1.41
+R2 coefficient      0.590
+Ulcer index         9.0%
+Prediction error    12%
+Cycle performance   1.38 1.29 1.24 1.37 
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                125%   986$  1859$
+ 20%                120%  1063$  1934$
+ 30%                115%  1151$  2020$
+ 40%                111%  1220$  2087$
+ 50%                107%  1298$  2163$
+ 60%                102%  1413$  2275$
+ 70%                 96%  1541$  2400$
+ 80%                 89%  1754$  2607$
+ 90%                 83%  1925$  2774$
+ 95%                 79%  2103$  2947$
+100%                 54%  3485$  4294$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
+
+AUD/USD avg         .111  1.42  187/113   10.0  /XXXXXXXXX
+EUR/USD avg         .069  1.44  174/143   11.7  \XXXXXXXX/
+GBP/USD avg         .051  1.36   75/93     6.8  \XX\XXXXXX
+GER30 avg           .021  2.68   12/7     11.5  .X.X/./\/\
+NAS100 avg          .030  1.36   64/56    17.5  /XXX/X/XX\
+SPX500 avg          .030  1.99   69/36    25.0  /XX/XX//X\
+UK100 avg           .043  1.18   50/76    14.5  XX\X/XXXXX
+US30 avg            .009  0.98   19/52    -0.8  /\.../X\\/
+USD/CAD avg         .074  1.49  156/145   29.2  \XXXXXXXXX
+USD/CHF avg         .081  1.63   67/34     5.8  X///XX.\/X
+USD/JPY avg         .092  1.20   61/36     1.6  XXX/XX/\XX
+XAG/USD avg         .000  ----    0/0      0.0  ..........
+XAU/USD avg         .012  1.99   14/5      3.2  ..\/.//\//
+
+A2 avg              .065  1.39   83/59     9.4  XXXXXXXXXX
+BB avg              .068  1.88  119/63    29.9  XXXX/X/XXX
+CT avg              .032  1.40   77/67     8.6  XXXXXXXXXX
+CY avg              .056  1.34  337/287   48.1  XXXXXXXXXX
+HP avg              .071  1.30  332/320   40.2  XXXXXXXXXX
+
+AUD/USD:BB          .603  4.17   31/10     2.2  /\////////
+AUD/USD:BB:L        .000  ----    0/0      0.0  ..........
+AUD/USD:BB:S        .603  4.17   31/10     2.2  /\////////
+AUD/USD:CT          .161  1.34   23/16     1.5  //X\/\XX\\
+AUD/USD:CT:L        .000  0.93   10/7     -0.1  //\././\\\
+AUD/USD:CT:S        .197  1.65   13/9      1.6  ///\/\\/\\
+AUD/USD:CY          .172  1.40   60/43     3.5  //\XXXXXX\
+AUD/USD:CY:L        .000  0.75   23/24    -1.0  //\/\\\\\\
+AUD/USD:CY:S        .211  1.95   37/19     4.6  //\\/////\
+AUD/USD:HP          .166  1.28   73/44     2.8  /XX/XX/XXX
+AUD/USD:HP:L        .115  1.06   35/24     0.3  /////\/\\/
+AUD/USD:HP:S        .209  1.56   38/20     2.5  /\\/\////X
+EUR/USD:A2          .129  1.20   20/18     1.2  \X/\/XX\\/
+EUR/USD:A2:L        .000  0.64    8/11    -1.0  \\/\.\\.\/
+EUR/USD:A2:S        .184  1.74   12/7      2.2  \/.\///\..
+EUR/USD:CY          .183  1.44   83/68     5.0  \X/XXX\///
+EUR/USD:CY:L        .140  1.21   33/39     1.2  \\//\\\///
+EUR/USD:CY:S        .219  1.69   50/29     3.8  \//\//\//.
+EUR/USD:HP          .221  1.59   71/57     5.5  \XX\XX/\X/
+EUR/USD:HP:L        .203  1.39   25/30     1.3  \\/\\\/.\/
+EUR/USD:HP:S        .228  1.71   46/27     4.2  \/\\///\/.
+GBP/USD:CT          .283  2.08   25/22     5.3  .X/\\X////
+GBP/USD:CT:L        .000  0.90   11/17    -0.4  .\/\\\//./
+GBP/USD:CT:S        .385  5.75   14/5      5.7  .//.\/////
+GBP/USD:CY          .229  1.79   19/20     3.2  \/.\\/\\//
+GBP/USD:CY:L        .000  ----    0/0      0.0  ..........
+GBP/USD:CY:S        .229  1.79   19/20     3.2  \/.\\/\\//
+GBP/USD:HP          .000  0.83   31/51    -1.7  \/\\//\/\\
+GBP/USD:HP:L        .000  ----    0/0      0.0  ..........
+GBP/USD:HP:S        .000  0.83   31/51    -1.7  \/\\//\/\\
+GER30:BB            .130  2.68   12/7     11.5  .X.X/./\/\
+GER30:BB:L          .121  1.91    4/4      3.3  ./.\../..\
+GER30:BB:S          .134  3.51    8/3      8.3  .\.//./\/.
+NAS100:BB           .125  2.08   13/10     8.2  .//..////\
+NAS100:BB:L         .125  2.08   13/10     8.2  .//..////\
+NAS100:BB:S         .000  ----    0/0      0.0  ..........
+NAS100:CY           .112  1.59   18/10     7.8  /\\/.//\\.
+NAS100:CY:L         .112  1.59   18/10     7.8  /\\/.//\\.
+NAS100:CY:S         .000  ----    0/0      0.0  ..........
+NAS100:HP           .101  1.05   33/36     1.5  ///\/\//.\
+NAS100:HP:L         .101  1.05   33/36     1.5  ///\/\//.\
+NAS100:HP:S         .000  ----    0/0      0.0  ..........
+SPX500:BB           .119  1.39   15/10     1.7  .\\//\//\\
+SPX500:BB:L         .000  ----    0/0      0.0  ..........
+SPX500:BB:S         .119  1.39   15/10     1.7  .\\//\//\\
+SPX500:CY           .123  2.20   32/12    14.4  ////\///.\
+SPX500:CY:L         .123  2.20   32/12    14.4  ////\///.\
+SPX500:CY:S         .000  ----    0/0      0.0  ..........
+SPX500:HP           .123  1.99   22/14     9.0  /\///\../\
+SPX500:HP:L         .123  1.99   22/14     9.0  /\///\../\
+SPX500:HP:S         .000  ----    0/0      0.0  ..........
+UK100:A2            .102  1.17    4/11     1.4  .\..//\/\\
+UK100:A2:L          .000  ----    0/0      0.0  ..........
+UK100:A2:S          .102  1.17    4/11     1.4  .\..//\/\\
+UK100:BB            .106  1.31   14/18     4.1  \\../\/\/X
+UK100:BB:L          .105  1.30    8/10     2.6  \\...\/\/X
+UK100:BB:S          .109  1.33    6/8      1.5  ..../\.\//
+UK100:CY            .101  1.15   32/47     9.0  /X\X/\\X/X
+UK100:CY:L          .100  1.08   14/23     2.3  /\.//\\\./
+UK100:CY:S          .103  1.23   18/24     6.7  //\\/\\//X
+US30:HP             .000  0.98   19/52    -0.8  /\.../X\\/
+US30:HP:L           .000  0.78   11/35    -6.1  /\.../\\\/
+US30:HP:S           .108  1.41    8/17     5.3  .....//\\/
+USD/CAD:CT          .123  1.15   29/29     1.7  \\XXXX/\/X
+USD/CAD:CT:L        .267  2.19   16/9      1.9  \\/\///../
+USD/CAD:CT:S        .000  0.98   13/20    -0.2  \\\/\\/\/X
+USD/CAD:CY          .132  1.26   81/67     6.8  \\XX\XXX//
+USD/CAD:CY:L        .222  2.02   41/25     7.9  \\/\\/////
+USD/CAD:CY:S        .000  0.94   40/42    -1.1  \\\/\\\\//
+USD/CAD:HP          .181  1.97   46/49    20.6  \/XX\X/XX/
+USD/CAD:HP:L        .266  3.12   26/19    12.7  \//\\///\/
+USD/CAD:HP:S        .135  1.52   20/30     7.9  \/\/\\.\//
+USD/CHF:A2          .294  1.56   30/17     2.5  X///\X.\/X
+USD/CHF:A2:L        .272  1.56   16/10     1.6  \///./.\/\
+USD/CHF:A2:S        .342  1.57   14/7      1.0  ////\\.\//
+USD/CHF:HP          .360  1.71   37/17     3.2  //////.\/\
+USD/CHF:HP:L        .360  1.71   37/17     3.2  //////.\/\
+USD/CHF:HP:S        .000  ----    0/0      0.0  ..........
+USD/JPY:A2          .189  1.46   15/8      1.1  X////\../X
+USD/JPY:A2:L        .154  1.31    7/5      0.6  /////\...\
+USD/JPY:A2:S        .500  2.17    8/3      0.5  \/.//...//
+USD/JPY:BB          .457  2.65   34/8      2.1  ...////\\/
+USD/JPY:BB:L        .457  2.65   34/8      2.1  ...////\\/
+USD/JPY:BB:S        .000  ----    0/0      0.0  ..........
+USD/JPY:CY          .000  0.61   12/20    -1.7  \\\/\\/\./
+USD/JPY:CY:L        .000  ----    0/0      0.0  ..........
+USD/JPY:CY:S        .000  0.61   12/20    -1.7  \\\/\\/\./
+XAU/USD:A2          .137  1.99   14/5      3.2  ..\/.//\//
+XAU/USD:A2:L        .137  1.99   14/5      3.2  ..\/.//\//
+XAU/USD:A2:S        .000  ----    0/0      0.0  ..........

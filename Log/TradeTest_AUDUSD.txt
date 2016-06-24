@@ -1,0 +1,10 @@
+Test TradeTest AUD/USD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg -59 min)
+Test period         07.01.2016-07.06.2016 (2521 bars)
+Lookback period     80 bars (3 days)
+Assumed slippage    10.0 sec
+Spread              0.5 pips (roll 0.16/-0.38)
+Commission          0.60
+Contracts per lot   1000.0

@@ -1,0 +1,52 @@
+
+TradeTest 
+Login FXCM.. at UTC 07.06. 17:37
+
+Trade: TradeTest AUD/USD 07.06.2016
+
+!AUD/USD: 0.74484 0.00004 1
+!AUD/USD: 0.74484 0.00004 1
+!AUD/USD: 0.74484 0.00004 1
+!AUD/USD: 0.74484 0.00004 1
+Buy 1L AUD/USD Stop 0.0000 at 17:37
+BrokerBuy AUD/USD: 653 ms
+[AUD/USD::L2887] Long 1@0.7448  at 17:37
+Stop: 0.0000 Trail: 0.0000 Units: 1000.00
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 133 ms
+[AUD/USD::L2887] Can't close 1@0.7448 at 17:37
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 104 ms
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:37
+
+[Tue 07.06.16 17:38]  45147 +0 -0 \
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 94 ms
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:38
+Buy 1S AUD/USD Stop 0.0000 at 17:39
+!Error 072: Close order failed:  95332887
+!Description=19915;DAS 19915: ZDas Exception
+ ORA-20222: Functionality is disabled according to NFA regulations.
+ 
+BrokerSell AUD/USD: 62 ms
+[AUD/USD::L2887] Can't close 1@0.7449 at 17:39
+BrokerBuy AUD/USD: 61637 ms
+Error 070 - possibly orphaned trade
+-1000 AUD/USD at 07.06. 17:40:11 UTC
+(AUD/USD::S) 17:39 Can't open 1@0.7449
+
+[Tue 07.06.16 17:40]  45147 +0 -0 \
+!Broker closed 95332887
+BrokerSell AUD/USD: 5 ms
+[AUD/USD::L2887] Sell 1@0.7448: -0.05 at 17:40
+Entr 0.7448 Exit 0.7448 Spr 0.0000 Slp -0.01$ Rol 0.08$ Com 0.06$
+Logout.. ok

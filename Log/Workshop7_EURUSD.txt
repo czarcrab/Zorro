@@ -1,0 +1,63 @@
+Walk-Forward Test Workshop7 EUR/USD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 84 min)
+Simulation period   02.01.2009-09.06.2016 (46182 bars)
+Test period         15.11.2011-09.06.2016 (28340 bars)
+Lookback period     3 bars (3 hours)
+WFO test cycles     9 x 3149 bars (27 weeks)
+Training cycles     10 x 17842 bars (153 weeks)
+Assumed slippage    10.0 sec
+Spread              0.3 pips (roll -0.45/0.21)
+Commission          0.60
+Contracts per lot   1000.0
+
+Gross win/loss      3992$ / -4016$ (-239p)
+Average profit      -5.23$/year, -0.44$/month, -0.02$/day
+Max drawdown        -205$ -859% (MAE -206$ -864%)
+Total down time     99% (TAE 83%)
+Max down time       184 weeks from Dec 2011
+Max open margin     26$
+Max open risk       14$
+Trade volume        5162632$ (1130797$/year)
+Transaction costs   -123$ spr, 3.43$ slp, -1.21$ rol, -246$ com
+Capital required    192$
+
+Number of trades    4098 (898/year, 18/week, 4/day)
+Percent winning     47.8%
+Max win/loss        32$ / -23$
+Avg trade profit    -0.01$ -0.1p (+20.4p / -18.8p)
+Avg trade slippage  0.00$ 0.0p (+0.4p / -0.4p)
+Avg trade bars      4 (+4 / -4)
+Max trade bars      29 (29 hours)
+Time in market      68%
+Max open trades     1
+Max loss streak     11 (uncorrelated 13)
+
+Annual return       -3%
+Profit factor       0.99 (PRR 0.95)
+Sharpe ratio        -0.05
+Kelly criterion     -0.11
+R2 coefficient      0.000
+Ulcer index         100.0%
+Prediction error    1881%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                -20%     0$  26$
+ 20%                -20%     0$  26$
+ 30%                -20%     0$  26$
+ 40%                -20%     0$  26$
+ 50%                -20%     0$  26$
+ 60%                -20%     0$  26$
+ 70%                -20%     0$  26$
+ 80%                -20%     0$  26$
+ 90%                -20%     0$  26$
+ 95%                -20%     0$  26$
+100%                -20%     0$  26$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
+
+EUR/USD             .000  0.99  1957/2141  100.0  /\\XXX\/X
+EUR/USD:L           .000  0.96  875/1072  296.3  /\\/\\\//
+EUR/USD:S           .049  1.02  1082/1069  -196.3  /\\\//\/\

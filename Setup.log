@@ -1,0 +1,272 @@
+Setup Log of: Zorro Trading Automaton
+Version: 1.44.1
+
+Date: 03-JUN-2016 21:47:38
+Operating System: Win8.1.64  6.3  9600 - x64 Workstation
+Composer Version: 11.0.0.7
+
+WinTempDir: C:\Users\am\AppData\Local\Temp
+SourceDir:  C:\Users\am\AppData\Local\Temp\SETUP_44475
+
+Execute at: (1) --- Setup Start
+Execute at: (22) --- Before Dialogs
+Show Setup Dialog: Welcome
+Show Setup Dialog: License Agreement
+Show Setup Dialog: Readme
+Execute at: (7) --- Before User Information
+Show Setup Dialog: User Information
+Execute at: (8) --- After User Information
+Execute at: (13) --- Before Destination
+Show Setup Dialog: Choose Destination Location
+Execute at: (14) --- After Destination
+Execute at: (17) --- Before Shortcuts
+Show Setup Dialog: Set Program Shortcuts
+Execute at: (18) --- After Shortcuts
+Show Setup Dialog: Confirm Setup Settings
+Create Target Directory: C:\Users\am\Zorro ... TRUE
+Show Setup Dialog: Copying Files
+Execute at: (2) --- Before Copy
+Handle First UnInstall Data
+  Copy File: C:\Users\am\Zorro\Zorro_setup_16862.exe ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro)
+  Copy File: C:\Users\am\Zorro\api.def ... OK
+  Copy File: C:\Users\am\Zorro\cKeywords.db ... OK
+  Copy File: C:\Users\am\Zorro\dagocmd.db ... OK
+  Copy File: C:\Users\am\Zorro\Keywords.db ... OK
+  Copy File: C:\Users\am\Zorro\Microsoft.VC80.CRT.manifest ... OK
+  Copy File: C:\Users\am\Zorro\SED.exe ... OK
+  Copy File: C:\Users\am\Zorro\zorro.chm ... OK
+  Copy File: C:\Users\am\Zorro\Zorro.exe ... OK
+  Copy File: C:\Users\am\Zorro\Zorro.ini ... OK
+  Copy File: C:\Users\am\Zorro\ZorroMT4.zip ... OK
+  Copy File: C:\Users\am\Zorro\Zview.exe ... OK
+  Copy File: C:\Users\am\Zorro\ackutl.dll ... OK
+  Copy File: C:\Users\am\Zorro\chartdir51.dll ... OK
+  Copy File: C:\Users\am\Zorro\chartdir60.dll ... OK
+  Copy File: C:\Users\am\Zorro\ForexConnect.dll ... OK
+  Copy File: C:\Users\am\Zorro\fxmsg.dll ... OK
+  Copy File: C:\Users\am\Zorro\gsexpat.dll ... OK
+  Copy File: C:\Users\am\Zorro\gstool3.dll ... OK
+  Copy File: C:\Users\am\Zorro\gszlib.dll ... OK
+  Copy File: C:\Users\am\Zorro\httplib.dll ... OK
+  Copy File: C:\Users\am\Zorro\libeay32.dll ... OK
+  Copy File: C:\Users\am\Zorro\log4cplus.dll ... OK
+  Copy File: C:\Users\am\Zorro\mfc71.dll ... OK
+  Copy File: C:\Users\am\Zorro\mfc80u.dll ... OK
+  Copy File: C:\Users\am\Zorro\msvcp71.dll ... OK
+  Copy File: C:\Users\am\Zorro\msvcp80.dll ... OK
+  Copy File: C:\Users\am\Zorro\msvcr120.dll ... OK
+  Copy File: C:\Users\am\Zorro\msvcr71.dll ... OK
+  Copy File: C:\Users\am\Zorro\msvcr80.dll ... OK
+  Copy File: C:\Users\am\Zorro\mt4R.dll ... OK
+  Copy File: C:\Users\am\Zorro\pdas.dll ... OK
+  Copy File: C:\Users\am\Zorro\ssleay32.dll ... OK
+  Copy File: C:\Users\am\Zorro\click.wav ... OK
+  Copy File: C:\Users\am\Zorro\loss.wav ... OK
+  Copy File: C:\Users\am\Zorro\optimize.wav ... OK
+  Copy File: C:\Users\am\Zorro\trade.wav ... OK
+  Copy File: C:\Users\am\Zorro\trail.wav ... OK
+  Copy File: C:\Users\am\Zorro\win.wav ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\Data)
+  Copy File: C:\Users\am\Zorro\Data\Download_EURUSD.trd ... OK
+  Copy File: C:\Users\am\Zorro\Data\TradeTest_EURUSD.trd ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12.fac ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_1.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_10.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_2.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_3.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_4.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_5.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_6.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_7.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_8.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_9.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_1.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_2.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_3.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_4.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_5.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_6.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_7.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_8.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z3_9.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_10.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_11.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_12.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_13.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_14.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_15.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_16.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_17.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_18.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_19.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_3.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_4.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_5.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_6.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_7.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_8.c ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z7_9.c ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\include)
+  Copy File: C:\Users\am\Zorro\include\candle.c ... OK
+  Copy File: C:\Users\am\Zorro\include\com.h ... OK
+  Copy File: C:\Users\am\Zorro\include\default.c ... OK
+  Copy File: C:\Users\am\Zorro\include\functions.h ... OK
+  Copy File: C:\Users\am\Zorro\include\indicators.c ... OK
+  Copy File: C:\Users\am\Zorro\include\litec.h ... OK
+  Copy File: C:\Users\am\Zorro\include\profile.c ... OK
+  Copy File: C:\Users\am\Zorro\include\r.h ... OK
+  Copy File: C:\Users\am\Zorro\include\stdio.h ... OK
+  Copy File: C:\Users\am\Zorro\include\ta.h ... OK
+  Copy File: C:\Users\am\Zorro\include\trading.h ... OK
+  Copy File: C:\Users\am\Zorro\include\variables.h ... OK
+  Copy File: C:\Users\am\Zorro\include\windows.h ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\Plugin)
+  Copy File: C:\Users\am\Zorro\Plugin\FXCM.dll ... OK
+  Copy File: C:\Users\am\Zorro\Plugin\IB.dll ... OK
+  Copy File: C:\Users\am\Zorro\Plugin\Oanda.dll ... OK
+  Copy File: C:\Users\am\Zorro\Plugin\ZorroMT4.dll ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\Source)
+  Copy File: C:\Users\am\Zorro\Source\debug.htm ... OK
+  Copy File: C:\Users\am\Zorro\Source\Download.c ... OK
+  Copy File: C:\Users\am\Zorro\Source\favicon.ico ... OK
+  Copy File: C:\Users\am\Zorro\Source\FXCMplugin.cpp ... OK
+  Copy File: C:\Users\am\Zorro\Source\licenses.txt ... OK
+  Copy File: C:\Users\am\Zorro\Source\mt4R-1.3.0.27.zip ... OK
+  Copy File: C:\Users\am\Zorro\Source\status.htm ... OK
+  Copy File: C:\Users\am\Zorro\Source\ta_lib.zip ... OK
+  Copy File: C:\Users\am\Zorro\Source\TradeTest.c ... OK
+  Copy File: C:\Users\am\Zorro\Source\train.htm ... OK
+  Copy File: C:\Users\am\Zorro\Source\zorro.css ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\Strategy)
+  Copy File: C:\Users\am\Zorro\Strategy\Analysis.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\CalculatePi.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Combine.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Convert.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Distribution.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Download.csv ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Download.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Ehlers.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Export.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\ExportBar.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Filter.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Gap.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\GapFinder.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Grid.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\IndicatorTest.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Luxor.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Mandelbrot.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Martingale.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\PlotCurve.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Predict.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\RandomPrice.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\RandomWalk.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\RTest.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Simulate.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Spectrum.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\TradeCosts.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\TradeTest.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop3_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop3_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop4_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop4_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop5_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop5_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop5_3.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop6_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop6_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop7.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop8_1.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop8_2.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop8_3.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Workshop8_4.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z.ini ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z1.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z12.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z2.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z3.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z7.x ... OK
+
+Start Copy Directory
+  (C:\Users\am\Zorro\History)
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2004.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2005.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2006.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2007.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2008.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2009.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2010.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2011.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2012.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2013.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2014.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2015.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\EURUSD_2016.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2004.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2005.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2006.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2007.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2008.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2009.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2010.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2011.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2012.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2013.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2014.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2015.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\USDJPY_2016.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2008.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2009.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2010.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2011.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2012.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2013.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2014.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2015.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\XAGUSD_2016.bar ... OK
+  Copy File: C:\Users\am\Zorro\History\AccountsExample.csv ... OK
+  Copy File: C:\Users\am\Zorro\History\AssetsCur.csv ... OK
+  Copy File: C:\Users\am\Zorro\History\AssetsFix.csv ... OK
+  Copy File: C:\Users\am\Zorro\History\AssetsIB.csv ... OK
+  Copy File: C:\Users\am\Zorro\History\AssetsOanda.csv ... OK
+
+Execute at: (3) --- After Copy
+Registering Components --- Start
+
+Create Start/Program shortcut:
+  Zorro Trading Automaton\Zorro  (C:\Users\am\Zorro\Zorro.exe) ... OK
+Create Start/Program shortcut:
+  Zorro Trading Automaton\Script Editor  (C:\Users\am\Zorro\SED.exe) ... OK
+Create Start/Program shortcut:
+  Zorro Trading Automaton\Uninstall Zorro Trading Automaton  (C:\Users\am\Zorro\Zorro_setup_16862.exe) ... OK
+Create Desktop shortcut:
+  Zorro  (C:\Users\am\Zorro\Zorro.exe) ... OK
+Create Quick Launch shortcut:
+  Zorro  (C:\Users\am\Zorro\Zorro.exe) ... OK
+
+Registering Components --- End
+
+Execute at: (23) --- After Reg Components
+Execute at: (19) --- Before Complete
+Show Setup Dialog: Setup Complete
+Execute at: (20) --- After Complete
+Execute at: (4) --- Setup End

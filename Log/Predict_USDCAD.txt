@@ -1,0 +1,10 @@
+Test Predict USD/CAD
+
+Simulated account   AssetsFix 
+Bar period          47 min (avg 68 min)
+Test period         06.01.2015-07.06.2016 (10964 bars)
+Lookback period     80 bars (62 hours)
+Assumed slippage    10.0 sec
+Spread              1.0 pips (roll -0.04/0.09)
+Commission          0.80
+Contracts per lot   1000.0

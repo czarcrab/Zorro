@@ -1,0 +1,7 @@
+Name,Broker,Account,User,Pass,Assets,CCY,Real,NFA,Plugin
+Demo,FXCM,0,EUD1234567,xyz123,AssetsFix,EUR,0,0,FXCM
+Real,FXCM,0,0,0,AssetsFix,EUR,1,0,FXCM
+Zulu1,AAAFX,0,3456789,abcdef1,AssetsFix,USD,0,0,ZorroMT4
+Zulu2,AAAFX,0,3459876,007007x,AssetsFix,USD,0,0,ZorroMT4
+IB-TWS-Demo,IB,0,101,0,AssetsIB,EUR,0,14,IB
+IB-Gate,IB,0,1,0,AssetsIB,EUR,1,14,IB

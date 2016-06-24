@@ -1,0 +1,6 @@
+!Single Asset,#Bund
+!Load M1 Data,#2011-2016
+!Load Tick Data,#2016-2016
+!Load Yahoo Data,1980-2016
+!Save Assets to,#AssetsNew
+!Exit,@

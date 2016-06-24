@@ -1,0 +1,10 @@
+Test Spectrum USD/CAD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 86 min)
+Test period         01.11.2015-02.12.2015 (517 bars)
+Lookback period     800 bars (6 weeks)
+Assumed slippage    10.0 sec
+Spread              1.0 pips (roll -0.04/0.09)
+Commission          0.80
+Contracts per lot   1000.0

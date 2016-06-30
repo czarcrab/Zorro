@@ -27,7 +27,7 @@ typedef struct _SYSTEMTIME {
 API(SystemTimeToVariantTime,oleaut32)
 int _stdcall SystemTimeToVariantTime(SYSTEMTIME* lpSystemTime, double* pvtime);
 
-DATE ConvertTime(int Year,int Month,int Day,int Hour,int Minute,int Second)
+DATE ConvertTime(int Year,int Month,int Dom,int Hour,int Minute,int Second)
 {
 	SYSTEMTIME Time;
 	memset(&Time,0,sizeof(SYSTEMTIME));
@@ -35,7 +35,7 @@ DATE ConvertTime(int Year,int Month,int Day,int Hour,int Minute,int Second)
 	else if(Year < 100) year += 1900;
 	Time.wYear = Year;
 	Time.wMonth = Month;
-	Time.wDay = Day;
+	Time.wDay = Dom;
 	Time.wHour = Hour;
 	Time.wMinute = Minute;
 	Time.wSecond = Second;
@@ -54,11 +54,11 @@ string readTick(string content,TICK* tick)
 	char* line = strtok(content,"\n");
 	if(!line) return 0;
 
-	int Year, Month, Day, Hour = 0, Minute = 0, Second = 0; 
+	int Year, Month, Dom, Hour = 0, Minute = 0, Second = 0; 
 #ifdef HISTDATA // line format "20100103 170000;1.430100;1.430400;1.430100;1.430400;0"
 
 	if(10 != sscanf(line,"%4d%2d%2d %2d%2d%2d;%f;%f;%f;%f;",
-		&Year, &Month, &Day, &Hour, &Minute, &Second,
+		&Year, &Month, &Dom, &Hour, &Minute, &Second,
 		&tick->fOpen, &tick->fHigh, &tick->fLow, &tick->fClose)) 
 		return 0;
 #endif
@@ -66,7 +66,7 @@ string readTick(string content,TICK* tick)
 	float fVol,fAdj;
 
 	if(9 != sscanf(line,"%4d-%2d-%2d,%f,%f,%f,%f,%f,%f",
-		&Year, &Month, &Day,
+		&Year, &Month, &Dom,
 		&tick->fOpen, &tick->fHigh, &tick->fLow, &tick->fClose,&fVol,&fAdj)) 
 		return 0;
 #ifdef ADJUSTED
@@ -82,12 +82,12 @@ string readTick(string content,TICK* tick)
 
 #ifdef PRINT
 	printf("\n%4d-%2d-%2d, %.4f, %.4f, %.4f, %.4f",
-		Year, Month, Day,
+		Year, Month, Dom,
 		(var)tick->fOpen, (var)tick->fHigh, (var)tick->fLow, (var)tick->fClose);
 #endif
 
 // store the time in DATE format
-	tick->time = ConvertTime(Year,Month,Day,Hour,Minute,Second);
+	tick->time = ConvertTime(Year,Month,Dom,Hour,Minute,Second);
 
 // return pointer to next line
 	return line+strlen(line)+1;

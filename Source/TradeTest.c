@@ -62,12 +62,11 @@ function click(int row,int col)
 function run()
 {
 #ifndef COMPILE
-	if(is(TRAINMODE)) // compile by [Train]
+	if(is(TRAINMODE))
 #endif
-	{
 		set(EXE);
+	if(mode(EXE))
 		return;
-	}
 	if(is(TESTMODE)) {
 		quit("Click [Trade]!");
 		return;

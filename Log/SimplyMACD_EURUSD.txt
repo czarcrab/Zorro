@@ -1,0 +1,10 @@
+Test SimplyMACD EUR/USD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 86 min)
+Test period         05.01.2012-07.06.2016 (26738 bars)
+Lookback period     80 bars (3 days)
+Assumed slippage    10.0 sec
+Spread              0.5 pips (roll -0.02/0.01)
+Commission          0.60
+Contracts per lot   1000.0

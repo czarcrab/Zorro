@@ -118,8 +118,6 @@ void	__stdcall Sleep(long);
 #define API(name,lib) #define PRAGMA_API name;lib!name
 #define APIA(name,lib) #define PRAGMA_API name;lib!name##A
 
-int intzero = 0;
-
 #endif // litec_h
 #endif ////////////////////////////////////////////////////////////
 

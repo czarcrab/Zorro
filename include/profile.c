@@ -274,6 +274,8 @@ void plotHeatmap(string name,var* Data,int Rows,int Cols,var Scale,...)
 	int i,j;
 	if(!name) name = "Heatmap";
 	PlotScale = 300./Rows;
+	if(Rows >= 20) PlotScale = 450./Rows;
+	if(Rows >= 40) PlotScale = 600./Rows;
 	if(Cols*PlotScale > PlotWidth)
 		PlotScale = PlotWidth/Cols;
 	PlotWidth = PlotScale*Cols;

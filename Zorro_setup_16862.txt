@@ -269,3 +269,13 @@ REMOVE_FILE(C:\Users\am\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
 VARIABLE_VALUES=
 CASE_SENSITIVE=1
 WHOLE_WORD=0
+
+REMOVE_FILE(C:\Users\am\Zorro\Data\Z12_11.par);
+
+REMOVE_FILE(C:\Users\am\Zorro\Strategy\Benchmark.c);
+REMOVE_FILE(C:\Users\am\Zorro\Strategy\Z8.x);
+
+REMOVE_FILE(C:\Users\am\Zorro\History\AssetsZ8.csv);
+
+REMOVE_REG_KEY(HKEY_LOCAL_MACHINE\Software\oP group Germany GmbH\Zorro Trading Automaton\1.46.1);
+

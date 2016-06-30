@@ -979,9 +979,9 @@ var Ichimoku(int PeriodTenkan,int PeriodKijun,int PeriodSenkou,int Offset)
 
 var Chikou(int Shift)
 {
-//	if(Shift > 0) g->dwMode |= PEEK;	
-	if(Shift < 0) checkLookBack(Shift);
-	return priceClose(-Shift);
+	if(!Shift) Shift = 26;
+	checkLookBack(Shift);
+	return priceClose(Shift);
 }
 
 var ChandelierLong(int TimePeriod,var Multiplier)

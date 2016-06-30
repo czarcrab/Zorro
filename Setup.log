@@ -1,12 +1,12 @@
 Setup Log of: Zorro Trading Automaton
-Version: 1.44.1
+Version: 1.46.1
 
-Date: 03-JUN-2016 21:47:38
+Date: 29-JUN-2016 11:03:03
 Operating System: Win8.1.64  6.3  9600 - x64 Workstation
 Composer Version: 11.0.0.7
 
 WinTempDir: C:\Users\am\AppData\Local\Temp
-SourceDir:  C:\Users\am\AppData\Local\Temp\SETUP_44475
+SourceDir:  C:\Users\am\AppData\Local\Temp\SETUP_22361
 
 Execute at: (1) --- Setup Start
 Execute at: (22) --- Before Dialogs
@@ -37,7 +37,7 @@ Start Copy Directory
   Copy File: C:\Users\am\Zorro\Keywords.db ... OK
   Copy File: C:\Users\am\Zorro\Microsoft.VC80.CRT.manifest ... OK
   Copy File: C:\Users\am\Zorro\SED.exe ... OK
-  Copy File: C:\Users\am\Zorro\zorro.chm ... OK
+  Copy File: C:\Users\am\Zorro\zorro.chm ... OK Delayed
   Copy File: C:\Users\am\Zorro\Zorro.exe ... OK
   Copy File: C:\Users\am\Zorro\Zorro.ini ... OK
   Copy File: C:\Users\am\Zorro\ZorroMT4.zip ... OK
@@ -72,12 +72,11 @@ Start Copy Directory
 
 Start Copy Directory
   (C:\Users\am\Zorro\Data)
-  Copy File: C:\Users\am\Zorro\Data\Download_EURUSD.trd ... OK
-  Copy File: C:\Users\am\Zorro\Data\TradeTest_EURUSD.trd ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12.fac ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12.par ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12_1.par ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12_10.par ... OK
+  Copy File: C:\Users\am\Zorro\Data\Z12_11.par ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12_2.par ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12_3.par ... OK
   Copy File: C:\Users\am\Zorro\Data\Z12_4.par ... OK
@@ -157,6 +156,7 @@ Start Copy Directory
 Start Copy Directory
   (C:\Users\am\Zorro\Strategy)
   Copy File: C:\Users\am\Zorro\Strategy\Analysis.c ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Benchmark.c ... OK
   Copy File: C:\Users\am\Zorro\Strategy\CalculatePi.c ... OK
   Copy File: C:\Users\am\Zorro\Strategy\Combine.c ... OK
   Copy File: C:\Users\am\Zorro\Strategy\Convert.c ... OK
@@ -205,6 +205,7 @@ Start Copy Directory
   Copy File: C:\Users\am\Zorro\Strategy\Z2.x ... OK
   Copy File: C:\Users\am\Zorro\Strategy\Z3.x ... OK
   Copy File: C:\Users\am\Zorro\Strategy\Z7.x ... OK
+  Copy File: C:\Users\am\Zorro\Strategy\Z8.x ... OK
 
 Start Copy Directory
   (C:\Users\am\Zorro\History)
@@ -248,6 +249,7 @@ Start Copy Directory
   Copy File: C:\Users\am\Zorro\History\AssetsFix.csv ... OK
   Copy File: C:\Users\am\Zorro\History\AssetsIB.csv ... OK
   Copy File: C:\Users\am\Zorro\History\AssetsOanda.csv ... OK
+  Copy File: C:\Users\am\Zorro\History\AssetsZ8.csv ... OK
 
 Execute at: (3) --- After Copy
 Registering Components --- Start

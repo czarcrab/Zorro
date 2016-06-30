@@ -8,11 +8,11 @@
 // trade functions
 TRADE* enterLong(function f,	// buy a long position
   var v0,var v1,var v2,var v3,var v4,var v5,var v6,var v7,...);
-TRADE* enterShort(function f,	// buy a long position)
+TRADE* enterShort(function f,	
   var v0,var v1,var v2,var v3,var v4,var v5,var v6,var v7,...);
-void exitLong(string name,var Limit,int lots);	// sell all open long positions
-void exitShort(string name,var Limit,int lots); // sell all open short positions
-void exitTrade(TRADE* tr,var Limit,int lots); // sell a particular trade position
+void exitLong(string name,var Limit,int lots,...);	// sell all open long positions
+void exitShort(string name,var Limit,int lots,...); // sell all open short positions
+void exitTrade(TRADE* tr,var Limit,int lots,...); // sell a particular trade position
 TRADE* forTrade(int mode);	// find the next trade in a loop
 TRADE* findTrade(string name);	// find the first trade with the given info
 void cancelTrade(int id);	// remove an externally closed trade from the list
@@ -50,14 +50,15 @@ int predict(int type,vars Data,int TimePeriod,var Threshold);
 #define VALLEY			(1<<23)
 #define PARABOLIC		(1<<20)
 
-int algo(string name);		// set up an algo identifier
-int asset(string name);		// fill price curves from an asset with the given name
-int assetType(string name);	// type of asset
-void assetAdd(string name,
+int algo(string Name);		// set up an algo identifier
+int asset(string Name);		// fill price curves from an asset with the given name
+int assetType(string Name);	// type of asset
+void assetAdd(string Name,
 	var vPrice,var vSpread,var vRollLong,var vRollShort, 
 	var vPip,var vPipCost,var vMarginCost,var vLeverage,
 	var vLotAmount,var vCommission,string sSymbol);
-void assetHistory(string name,int mode);
+void assetList(string Filename);
+void assetHistory(string Name,int Mode);
 #define FROM_YAHOO		4096
 
 #define FOREX	1
@@ -66,11 +67,11 @@ void assetHistory(string name,int mode);
 #define STOCK	4
 #define BOND	5
 
-var price(int offset);
-var priceOpen(int offset);
-var priceClose(int offset);
-var priceHigh(int offset);
-var priceLow(int offset);
+var price(int offset,...);
+var priceOpen(int offset,...);
+var priceClose(int offset,...);
+var priceHigh(int offset,...);
+var priceLow(int offset,...);
 
 // Detrend + randomize + Optimize settings
 #define TRADES		1	
@@ -102,21 +103,21 @@ int timeOffset(int zone,int days,int hour,int minute);
 
 #define NOW		-999999
 
-int year(int offset);	// current year of the simulation
-int month(int offset);	// current month of the simulation, 1 = January
-int week(int offset);	// current week number 
-int day(int offset);		// current day (1..31)
-int dom(int offset);		// number of days of the current month, 28..31
-int tdm(int offset);		// trading day of the current month, 1..23
-int tom(int offset);		// number of trading days of the current month, 20..23
-int dow(int offset);		// current day of the week: 1 = Monday, to 7 = Sunday.
-int ldow(int zone, int offset); // local day of the week
-int hour(int offset);	// current hour
-int lhour(int zone,int offset);	// local hour in the given time zone
-int minute(int offset);	// current minute
-var second();				// current second
-int dst(int zone,int offset);		// daylight saving (1 or 0)
-BOOL workday(int offset);
+int year(int offset,...);	// current year of the simulation
+int month(int offset,...);	// current month of the simulation, 1 = January
+int week(int offset,...);	// current week number 
+int day(int offset,...);	// current day (1..31)
+int dom(int offset,...);	// number of days of the current month, 28..31
+int tdm(int offset,...);	// trading day of the current month, 1..23
+int tom(int offset,...);	// number of trading days of the current month, 20..23
+int dow(int offset,...);	// current day of the week: 1 = Monday, to 7 = Sunday.
+int ldow(int zone, int offset,...); // local day of the week
+int hour(int offset,...);	// current hour
+int lhour(int zone,int offset,...);	// local hour in the given time zone
+int minute(int offset,...);	// current minute
+var second();					// current second
+int dst(int zone,int offset,...);		// daylight saving (1 or 0)
+BOOL workday(int offset,...);
 BOOL frame(int offset);
 int frameSync(int Period);
 int minutesAgo(int offset);
@@ -215,8 +216,8 @@ var crossOverF(var* a,var* b);
 var crossUnderF(var* a,var* b);
 
 // various analysis
-var* series(var value,int length);
-var* rev(var* Data,int length);
+var* series(var value,int length,...);
+var* rev(var* Data,int length,...);
 var random();	// random value between -1 and 1
 void seed(int s);
 var randomize(int Method,var *Out,var *In,int Length);
@@ -253,15 +254,16 @@ void* loop(void* p1,...); // loop through the parameter list
 void sound(string filename);	// play sound in trade mode
 HWND window(string title);
 void keys(string format,...);
+int hit(int key);
+int mouse(int* x,int* y,HWND hwnd);
 int exec(string name,string args,int mode);
 int print(int to,string format,...);
 int msg(string format,...);
 void watch(string text,...);
-int hit(int key);
 void title(string format,...);
 void info(string format,...);
 void progress(int n1,int n2);
-void quit(string text);
+void quit(string text,...);
 int memory(int mode);
 int wait(int ms);
 int login(int mode);
@@ -297,7 +299,7 @@ void saveStatus(string name);
 // broker 
 var brokerCommand(int command,DWORD parameter);
 
-#define GET_TIME			5	// Last incoming tick time (last known server time).
+#define GET_TIME			5	// Last incoming tick time (last known server time in MT4 time zone)
 #define GET_DIGITS		12	// Count of digits after decimal point 
 #define GET_STOPLEVEL	14	// Stop level in points.
 #define GET_STARTING		20	// Market starting date (usually used for futures).
@@ -316,6 +318,10 @@ var brokerCommand(int command,DWORD parameter);
 #define GET_COMPLIANCE	51 // NFA compliance.
 #define GET_NTRADES		52 // Number of open trades
 #define GET_POSITION		53	// Open net lots per asset 
+#define GET_BOOKASKS		60	// Ask volume in the order book
+#define GET_BOOKBIDS		61	// Bid volume in the order book
+#define GET_BOOKPRICE	62	// Price quote per price rank
+#define GET_BOOKVOL		63	// Volume per price rank
 
 #define SET_PATCH		128 // Work around broker API bugs
 #define SET_SLIPPAGE	129 // Max adverse slippage for orders

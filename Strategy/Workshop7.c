@@ -3,9 +3,9 @@
 
 function run()
 {
-	StartDate = 2004; //2004 = initial value
-	EndDate = 2016;
-	BarPeriod = 1440; // 1 day = 1440 (earlier value)
+	StartDate = 2005;
+	EndDate = 2015;
+	BarPeriod = 1440; // 1 day
 	BarZone = WET; // Western European midnight
 	Weekend = 1;	// don't merge Friday and Sunday bars
 	LookBack = 3;	// only 3 bars needed
@@ -14,7 +14,7 @@ function run()
 	set(RULES+TESTNOW);
 
 	if(Train) Hedge = 2;	// for training, allow long + short	
-	ExitTime = 6;  				// one week (6 candles = initial value)
+	ExitTime = 6;  				// one week
 	
 	if(adviseLong(PATTERN+2,0,
 		priceHigh(2),priceLow(2),priceClose(2),

@@ -1,0 +1,60 @@
+Test Ehlers SPX500
+
+Simulated account   AssetsFix 
+Bar period          24 hours (avg 2029 min)
+Test period         26.04.2011-17.06.2016 (1333 bars)
+Lookback period     80 bars (16 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+Spread              5.0 pips (roll 0.08/-0.30)
+Contracts per lot   1.0
+
+Gross win/loss      864$ / -742$ (+1770p)
+Average profit      24$/year, 1.97$/month, 0.09$/day
+Max drawdown        -359$ 295% (MAE -375$ 308%)
+Total down time     75% (TAE 94%)
+Max down time       55 weeks from Jan 2012
+Max open margin     8.00$
+Max open risk       15$
+Trade volume        47268$ (9188$/year)
+Transaction costs   -14$ spr, 0.02$ slp, -103$ rol
+Capital required    282$
+
+Number of trades    41 (8/year, 1/week, 1/day)
+Percent winning     65.9%
+Max win/loss        98$ / -113$
+Avg trade profit    2.97$ 43.2p (+465.5p / -771.4p)
+Avg trade slippage  0.00$ 0.0p (+0.8p / -1.4p)
+Avg trade bars      31 (+28 / -36)
+Max trade bars      107 (22 weeks)
+Time in market      95%
+Max open trades     1
+Max loss streak     5 (uncorrelated 4)
+
+Annual return       8%
+Profit factor       1.16 (PRR 0.74)
+Sharpe ratio        0.14
+Kelly criterion     0.22
+R2 coefficient      0.000
+Ulcer index         29.4%
+Prediction error    87%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 17%   176$  142$
+ 20%                 15%   200$  161$
+ 30%                 13%   223$  178$
+ 40%                 12%   245$  195$
+ 50%                 11%   280$  222$
+ 60%                 10%   305$  241$
+ 70%                  9%   351$  276$
+ 80%                  8%   393$  308$
+ 90%                  6%   474$  370$
+ 95%                  6%   506$  394$
+100%                  4%   731$  566$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+SPX500              .009  1.16   27/14   100.0  
+SPX500:L            .050  3.60   18/3    351.4  
+SPX500:S            .000  0.47    9/11   -251.4  

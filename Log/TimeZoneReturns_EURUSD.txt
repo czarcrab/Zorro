@@ -1,0 +1,61 @@
+Test TimeZoneReturns EUR/USD
+
+Simulated account   AssetsFix 
+Bar period          1 min (avg 1 min)
+Test period         02.01.2004-07.06.2016 (4373688 bars)
+Lookback period     0 bars (0 minutes)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+Spread              0.5 pips (roll -0.02/0.01)
+Commission          0.60
+Contracts per lot   1000.0
+
+Gross win/loss      10803$ / -9868$ (+10734p)
+Average profit      75$/year, 6.27$/month, 0.29$/day
+Max drawdown        -160$ 17% (MAE -162$ 17%)
+Total down time     96% (TAE 53%)
+Max down time       128 weeks from Jul 2012
+Max open margin     10$
+Max open risk       14$
+Trade volume        7333373$ (589912$/year)
+Transaction costs   -281$ spr, -46$ slp, -1.29$ rol, -387$ com
+Capital required    89$
+
+Number of trades    6447 (519/year, 10/week, 3/day)
+Percent winning     50.9%
+Max win/loss        31$ / -29$
+Avg trade profit    0.15$ 1.7p (+37.8p / -35.8p)
+Avg trade slippage  -0.01$ -0.1p (+0.5p / -0.7p)
+Avg trade bars      406 (+407 / -405)
+Max trade bars      479 (7 hours)
+Time in market      60%
+Max open trades     1
+Max loss streak     12 (uncorrelated 13)
+
+Annual return       85%
+Profit factor       1.09 (PRR 1.06)
+Sharpe ratio        0.70
+Kelly criterion     0.59
+R2 coefficient      0.918
+Ulcer index         7.0%
+Prediction error    72%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 78%   175$  96$
+ 20%                 70%   199$  108$
+ 30%                 64%   219$  118$
+ 40%                 59%   239$  127$
+ 50%                 55%   258$  137$
+ 60%                 51%   280$  148$
+ 70%                 45%   317$  165$
+ 80%                 39%   374$  194$
+ 90%                 33%   445$  229$
+ 95%                 30%   485$  248$
+100%                 16%   960$  481$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+EUR/USD             .067  1.09  3281/3166  100.0  
+EUR/USD:L           .124  1.14  1635/1588   53.0  
+EUR/USD:S           .044  1.07  1646/1578   47.0  

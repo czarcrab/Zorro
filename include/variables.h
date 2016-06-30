@@ -4,6 +4,7 @@
 #define and &&
 #define or ||
 #define not !
+#define as_int(x) *((int*)&(x))
 
 #define PI	3.14159265359
 
@@ -87,6 +88,7 @@
 #define NumBars	g->numBars
 #define NumMinutes g->numMinutes
 #define Bar			g->nBar
+#define StartBar	g->nFrameStart
 #define Day			g->nDay
 #define SampleCycle	g->nSampleCycle
 #define OptCycle	g->nOptCycle
@@ -230,6 +232,7 @@
 #define AlgoVar			(g->statShort->Skill)
 #define ResultLong		(g->statLong->Result)
 #define ResultShort		(g->statShort->Result)
+#define ThisPerformance	(g->w)
 //#define DailyLong		(g->statLong->pCurve)
 //#define DailyShort		(g->statShort->pCurve)
 //#define DailyTotal		(g->pCurve)

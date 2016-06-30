@@ -1,0 +1,4 @@
+Trade TradeCosts portfolio
+
+Bar period          24 hours (avg 2026 min)
+Trade period        29.06.2016-29.06.2016

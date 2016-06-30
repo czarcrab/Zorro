@@ -1,7 +1,7 @@
 function run()
 {
-	BarPeriod = 47;
-	NumYears = 1;
+	BarPeriod = 1440;
+	NumYears = 2;
 	
 	vars Price = series(price());
 	var LP30 = LowPass(Price,30);
@@ -11,8 +11,8 @@ function run()
 
 	ColorUp = ColorDn = 0; // suppress the price curve
 	PlotScale = 8; // bigger symbols
-	PlotWidth = 1200;
-	PlotHeight1 = 500;
+	PlotWidth = 1000;
+	PlotHeight1 = 300;
 	set(PLOTNOW);
 	plot("LP30",LP30,0,RED);
 	plot("LP100",LP100,0,BLUE);

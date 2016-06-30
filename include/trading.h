@@ -70,6 +70,7 @@ typedef struct MATRIX
 
 typedef MATRIX*  mat;
 #define me(M,row,col)	*(M->dat + row*M->cols + col) 
+#define ve(M,n)			*(M->dat+n) 
 
 typedef struct ASSET
 {
@@ -463,7 +464,8 @@ typedef struct GLOBALS
 	DWORD	dwColorBars[3];
 	DWORD	dwColorPanel[6];
 
-	long	pad5[19];
+	long	pad5[18];
+	DWORD	flags2;		// more internal flags
 
 	DWORD	nSaveMode;	// load/save flags
 	DWORD	dwBrokerPatch;	// work around API bugs
@@ -483,7 +485,7 @@ typedef struct GLOBALS
 #define BINARY		(1<<3)	// trade binary options
 #define PRELOAD	(1<<4)	// load prices from historical data
 #define PLOTNOW	(1<<5)	// create a chart automatically after test
-#define PLOTALL	(1<<6)	// plot all assets (nyi)
+#define COMPRESS	(1<<6)	// store ticks in compressed format (nyi)
 #define PLOTLONG	(1<<7)	// start plot already with lookback period
 #define LOGFILE	(1<<8)	// store log file
 #define LOGMSG		(1<<9)	// show log in message window
@@ -536,6 +538,7 @@ typedef struct GLOBALS
 #define SPONSORED	(1<<25)	// Zorro S version
 #define RUNNING	(1<<26)	// Simulation is running
 #define FIRSTINITRUN (1<<27)	// Really first run
+#define SHORTING	(1<<28)	// Short trades have been opened
 
 /////////////////////////////////////////////////////////
 

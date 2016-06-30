@@ -12,7 +12,9 @@ function run()
 	
 	while(asset(loop(
 		"AUD/USD","EUR/USD","EUR/CHF","GBP/USD",
-		"USD/CAD","USD/CHF","USD/JPY")))
+		"GER30","NAS100","SPX500","UK100","US30",
+		"USD/CAD","USD/CHF","USD/JPY",
+		"XAG/USD","XAU/USD")))
 	{
 		if(is(INITRUN))
 			Cost[n] = 0;

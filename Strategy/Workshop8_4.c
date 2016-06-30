@@ -2,12 +2,10 @@
 
 function strategy3()
 {
-	Stop = 20*PIP;
-	//TakeProfit = 5*PIP;
-	Trail=1;
-	TrailSlope=120;
-	TrailLock=30;
-	var ProfitGoal = 1*PIPCost*Bar;
+	Stop = 200*PIP;
+	TakeProfit = 10*PIP;
+
+	var ProfitGoal = 100*PIPCost*Bar;
 	Lots = clamp((ProfitGoal-ProfitClosed)/(7*PIPCost),1,200); 
 	
 	//if(ProfitOpen+ProfitClosed < -250) { // margin call
@@ -27,7 +25,7 @@ function strategy3()
 // generate a profit distribution chart
 function run()
 {
-	BarPeriod = 5; //1440
+	BarPeriod = 1440;
 	StartDate = 2015;
 	NumYears = 1;
 	LookBack = 0;

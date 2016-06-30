@@ -34,36 +34,10 @@ BOOL between(var a,var l,var h);
 BOOL between(int a,int l,int h);
 var random(var limit);
 
-var* series(var value);	
-var* series();	
-var* rev(var* Data) { return rev(Data,0); }
-
 BOOL crossOver(var* a,var b); 
 BOOL crossUnder(var* a,var b);
 var crossOverF(var* a,var b); 
 var crossUnderF(var* a,var b);
-
-var price();
-var priceOpen();
-var priceClose();
-var priceLow();
-var priceHigh();
-
-void exitLong(string Name,var Price);
-void exitLong(string Name);
-void exitLong();
-void exitShort(string Name,var Price);
-void exitShort(string Name);
-void exitShort();
-
-void exitTrade(TRADE* t,var Price) { exitTrade(t,Price,0); }
-void exitTrade(TRADE* t) { exitTrade(t,0,0); }
-void exitTrade() { exitTrade(0,0,0); }
-
-var adviseLong(int method) { return adviseLong(method,0); }
-var adviseShort(int method) { return adviseShort(method,0); }
-var adviseLong() { return adviseLong(0,0); }
-var adviseShort() { return adviseShort(0,0); }
 
 var optimize(var val,var start,var end,var step) { return optimize(val,start,end,step,0); }
 var optimize(var val,var start,var end) { return optimize(val,start,end,0,0); }
@@ -79,7 +53,6 @@ int panelSet(int row,int col,string text,int color,int style,int type,...);
 var slider(int num) { return slider(num,-1,0,0,0,0); }
 var strvar(string str,string name) { return strvar(str,name,0); }
 int memory() { return memory(0); }
-void quit() { quit(NULL); }
 var round(var val) { return round(val,0.); }
 
 int file_append(string name,string content,long size);
@@ -87,22 +60,6 @@ int panel(char* name,int color,int size);
 mat matSet(mat M,int row,int col,mat A);
 mat matSet(mat M,var c);
 
-int ldow(int zone) { return ldow(zone,0); }
-int lhour(int zone) { return lhour(zone,0); }
-int dst(int zone) { return dst(zone,0); }
-int year() { return year(0); }
-int month() { return month(0); }
-int week() { return week(0); }
-int day() { return day(0); }
-int dom() { return dom(0); }
-int tdm() { return tdm(0); }
-int tom() { return tom(0); }
-int dow() { return dow(0); }
-int hour() { return hour(0); }
-int minute() { return minute(0); }
-var minutesWithin() { return minutesWithin(0); }
-BOOL workday() { return workday(0); }
-BOOL frame() { return frame(0); }
 BOOL market(int zone);
 int date();
 int tod();
@@ -110,7 +67,9 @@ int ltod(int zone);
 int tow();
 int ltow(int zone);
 var wdate();
-string strdate(string format,int offset,...);
+string strdate(string format,int offset);
+string strdate(string format,var date);
+string strdate(string format) { return strdate(format,0); }
 
 bool is(long flag);
 bool mode(long flag);

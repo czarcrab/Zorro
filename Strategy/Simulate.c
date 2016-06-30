@@ -26,7 +26,7 @@ typedef struct _SYSTEMTIME {
 API(SystemTimeToVariantTime,oleaut32)
 int _stdcall SystemTimeToVariantTime(SYSTEMTIME* lpSystemTime, double* pvtime);
 
-DATE ConvertTime(int Year,int Month,int Day,int Hour,int Minute)
+DATE ConvertTime(int Year,int Month,int Dom,int Hour,int Minute)
 {
 	SYSTEMTIME Time;
 	memset(&Time,0,sizeof(SYSTEMTIME));
@@ -34,7 +34,7 @@ DATE ConvertTime(int Year,int Month,int Day,int Hour,int Minute)
 	else if(Year < 100) year += 1900;
 	Time.wYear = Year;
 	Time.wMonth = Month;
-	Time.wDay = Day;
+	Time.wDay = Dom;
 	Time.wHour = Hour;
 	Time.wMinute = Minute;
 	DATE vTime;
@@ -70,14 +70,14 @@ string readTrade(string csv,
 	strtok(0,separator); // ID	
 	sscanf(strtok(0,separator),"%u",tLots);
 	
-	int Year,Month,Day,Hour,Minute;
+	int Year,Month,Dom,Hour,Minute;
 	sscanf(strtok(0,separator),"%2u.%2u.%2u %2u:%2u",
-		&Day,&Month,&Year,&Hour,&Minute);
-	*tOpen = ConvertTime(Year,Month,Day,Hour,Minute);
+		&Dom,&Month,&Year,&Hour,&Minute);
+	*tOpen = ConvertTime(Year,Month,Dom,Hour,Minute);
 	
 	sscanf(strtok(0,separator),"%2u.%2u.%2u %2u:%2u",
-		&Day,&Month,&Year,&Hour,&Minute);
-	*tClose = ConvertTime(Year,Month,Day,Hour,Minute);
+		&Dom,&Month,&Year,&Hour,&Minute);
+	*tClose = ConvertTime(Year,Month,Dom,Hour,Minute);
 
 	strtok(NULL,separator); // Entry	
 	strtok(NULL,separator); // Exit
@@ -86,7 +86,7 @@ string readTrade(string csv,
 	*tProfit = strvar(s,0,0);
 
 //	printf("\n%s %s %i %i.%i.%i %i:%i %.2f",
-//		*tAsset,*tType,*tLots,Day,Month,Year,Hour,Minute,*tProfit);
+//		*tAsset,*tType,*tLots,Dom,Month,Year,Hour,Minute,*tProfit);
 
 	return nextline;
 }

@@ -8,10 +8,8 @@ function run()
 	StartDate = 20151101;
 	EndDate = StartDate + 0100; // 1 month
 	LookBack = 4*200;
-	//asset("EUR/USD");
-	//asset("USD/CAD");
-	//asset("USD/JPY");
-	asset("USOil");
+	asset("EUR/USD");
+	
 	vars Price = series(price());
 #ifdef FILTER
 	plot("Filtered",BandPass(Price,24,0.1),NEW,BLACK);

@@ -10,21 +10,21 @@ Training cycles     12 x 4272 bars (147 weeks)
 Monte Carlo cycles  200
 Assumed slippage    10.0 sec
 
-Gross win/loss      98102$ / -67140$ (+113287p)
-Average profit      9198$/year, 767$/month, 35$/day
-Max drawdown        -1703$ 6% (MAE -4011$ 13%)
+Gross win/loss      98168$ / -67140$ (+113376p)
+Average profit      9218$/year, 768$/month, 35$/day
+Max drawdown        -1703$ 5% (MAE -4011$ 13%)
 Total down time     26% (TAE 93%)
 Max down time       27 weeks from Jul 2013
 Max open margin     1943$
-Max open risk       94226$
-Trade volume        11606601$ (3447996$/year)
-Transaction costs   -2351$ spr, -1954$ slp, -591$ rol, -551$ com
+Max open risk       94377$
+Trade volume        11608254$ (3448487$/year)
+Transaction costs   -2352$ spr, -1954$ slp, -591$ rol, -551$ com
 Capital required    3551$
 
 Number of trades    2632 (782/year, 16/week, 4/day)
 Percent winning     48.9%
 Max win/loss        852$ / -479$
-Avg trade profit    12$ 43.0p (+278.7p / -182.8p)
+Avg trade profit    12$ 43.1p (+278.5p / -182.5p)
 Avg trade slippage  -0.74$ -2.7p (+0.3p / -5.6p)
 Avg trade bars      53 (+69 / -35)
 Max trade bars      967 (33 weeks)
@@ -32,40 +32,40 @@ Time in market      2704%
 Max open trades     49
 Max loss streak     17 (uncorrelated 12)
 
-Annual return       259%
+Annual return       260%
 Profit factor       1.46 (PRR 1.38)
-Sharpe ratio        1.78
+Sharpe ratio        1.79
 Kelly criterion     1.23
-R2 coefficient      0.785
+R2 coefficient      0.784
 Ulcer index         3.6%
 Prediction error    10%
 Cycle performance   1.52 1.39 1.47 1.49 
 
 Confidence level     AR   DDMax  Capital
 
- 10%                306%  1129$  3009$
+ 10%                306%  1128$  3007$
  20%                298%  1214$  3089$
- 30%                292%  1281$  3152$
- 40%                286%  1348$  3216$
+ 30%                293%  1277$  3149$
+ 40%                287%  1348$  3216$
  50%                278%  1449$  3311$
- 60%                272%  1519$  3377$
- 70%                264%  1630$  3482$
- 80%                253%  1795$  3638$
- 90%                236%  2065$  3893$
+ 60%                273%  1516$  3374$
+ 70%                265%  1630$  3482$
+ 80%                253%  1794$  3637$
+ 90%                237%  2060$  3888$
  95%                230%  2185$  4005$
-100%                186%  3176$  4941$
+100%                187%  3176$  4941$
 
 Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
 
-AUD/USD avg         .031  1.63  135/118   12.1  XXXXXXXXXXX
-EUR/USD avg         .049  1.45  221/247   17.8  XXXXXXXXXXX
+AUD/USD avg         .031  1.63  135/118   12.0  XXXXXXXXXXX
+EUR/USD avg         .049  1.45  221/247   17.7  XXXXXXXXXXX
 GBP/USD avg         .056  1.32  201/292    9.2  XX\XXXXXXXX
 GER30 avg           .023  1.30   49/42     4.7  \XXXXXXXXXX
-NAS100 avg          .014  1.41   71/65     6.6  XXXXXX//XXX
-SPX500 avg          .014  1.89   85/40    16.8  /X///XX/X\/
+NAS100 avg          .014  1.41   71/65     6.5  XXXXXX//XXX
+SPX500 avg          .014  1.90   85/40    17.1  /X///XX/X\/
 UK100 avg           .023  1.53   58/51     9.4  XXXX\X/XX/X
-US30 avg            .018  1.82   62/38    10.1  .///.X/XX/X
-USD/CAD avg         .047  1.34  240/266   12.2  XXXXXXXXXXX
+US30 avg            .018  1.82   62/38    10.0  .///.X/XX/X
+USD/CAD avg         .047  1.34  240/266   12.1  XXXXXXXXXXX
 USD/CHF avg         .032  1.59   32/33     0.7  /X\XX/X\XX/
 USD/JPY avg         .023  1.52   85/104    5.2  XXXXXXX\XXX
 XAG/USD avg         .008  1.59   66/44     9.2  //////X/\XX
@@ -74,9 +74,9 @@ XAU/USD avg         .022  1.38   74/103    6.1  XXX\XXXXXXX
 A2 avg              .037  1.46  115/91     9.2  XXXXXXXXXXX
 BB avg              .037  1.53  149/66    11.5  XXXXXXX/XXX
 CT avg              .019  1.47   89/73     6.6  XXXXX/XXXXX
-CY avg              .035  1.27  337/331   19.2  XXXXXXXXXXX
+CY avg              .035  1.27  337/331   19.4  XXXXXXXXXXX
 ES avg              .017  1.37   40/81     1.4  XX\X/\XXX\/
-HP avg              .023  1.59  226/204   30.2  XXXXXXXXXXX
+HP avg              .023  1.59  226/204   30.1  XXXXXXXXXXX
 HU avg              .032  1.31  192/239   13.0  XXXXXXXXXXX
 LP avg              .021  1.70   42/115    3.8  XX/\XXXX\XX
 VO avg              .059  2.43  189/243   25.1  XXXXXXXXXXX
@@ -89,7 +89,7 @@ AUD/USD:CT:L        .000  0.75   12/10    -0.5  /\\/./.\.\/
 AUD/USD:CT:S        .113  1.68   18/11     2.0  ///\///\\\\
 AUD/USD:CY          .110  1.47   61/50     4.8  /X/X/XX/X\\
 AUD/USD:CY:L        .000  0.74   27/28    -1.6  /\///\\/\\\
-AUD/USD:CY:S        .140  2.52   34/22     6.4  ///\/////\\
+AUD/USD:CY:S        .140  2.52   34/22     6.3  ///\/////\\
 AUD/USD:VO          .171  2.50   18/35     4.1  \///\\/\\\/
 AUD/USD:VO:L        .000  ----    0/0      0.0  ...........
 AUD/USD:VO:S        .171  2.50   18/35     4.1  \///\\/\\\/
@@ -119,7 +119,7 @@ GBP/USD:CT:L        .000  ----    0/0      0.0  ...........
 GBP/USD:CT:S        .126  1.62   15/16     1.4  .\\\\/\/\//
 GBP/USD:CY          .091  1.25   44/43     2.4  \X.X\XXXX//
 GBP/USD:CY:L        .000  0.92   21/26    -0.5  \\./.\\/\./
-GBP/USD:CY:S        .126  1.79   23/17     2.9  ./.\\//\///
+GBP/USD:CY:S        .126  1.79   23/17     2.8  ./.\\//\///
 GBP/USD:ES          .126  1.19   27/52     0.5  \X\X/.\XX./
 GBP/USD:ES:L        .106  1.13   12/27     0.2  \\\\/.\/\./
 GBP/USD:ES:S        .169  1.29   15/25     0.3  \/\//..\/./
@@ -139,7 +139,7 @@ GER30:CY            .081  1.49   17/19     3.4  \\./\XX//XX
 GER30:CY:L          .079  1.43    7/7      1.4  ....\////\/
 GER30:CY:S          .084  1.53   10/12     2.0  \\./\\\///\
 GER30:HU            .073  1.00   17/19     0.0  \\X\//.\XXX
-GER30:HU:L          .101  2.08   10/6      2.2  \\/.//.\///
+GER30:HU:L          .101  2.08   10/6      2.1  \\/.//.\///
 GER30:HU:S          .000  0.57    7/13    -2.1  \\\\//.\\\\
 NAS100:BB           .079  1.19   24/15     0.9  \X/\..///X\
 NAS100:BB:L         .081  1.34   16/7      1.2  .//...///\\
@@ -153,8 +153,8 @@ NAS100:HU:S         .000  0.95   14/24    -0.3  \\\\\\////\
 SPX500:BB           .084  1.50   26/7      1.9  //.///\/\\/
 SPX500:BB:L         .084  1.50   26/7      1.9  //.///\/\\/
 SPX500:BB:S         .000  ----    0/0      0.0  ...........
-SPX500:CY           .087  1.78   25/12     5.6  ////.\//\\/
-SPX500:CY:L         .087  1.78   25/12     5.6  ////.\//\\/
+SPX500:CY           .087  1.82   25/12     5.8  ////.\//\\/
+SPX500:CY:L         .087  1.82   25/12     5.8  ////.\//\\/
 SPX500:CY:S         .000  ----    0/0      0.0  ...........
 SPX500:HP           .095  2.16   34/21     9.4  /\/..//./\.
 SPX500:HP:L         .095  2.16   34/21     9.4  /\/..//./\.

@@ -1,79 +1,79 @@
 Walk-Forward Test Z3 portfolio
 
 Simulated account   AssetsFix 
-Bar period          24 hours (avg 2026 min)
-Simulation period   24.05.2010-25.04.2016 (1537 bars)
-Test period         30.12.2011-25.04.2016 (1119 bars)
+Bar period          24 hours (avg 2025 min)
+Simulation period   24.05.2010-06.06.2016 (1567 bars)
+Test period         12.01.2012-06.06.2016 (1140 bars)
 Lookback period     100 bars (20 weeks)
-WFO test cycles     8 x 140 bars (28 weeks)
-Training cycles     9 x 418 bars (86 weeks)
+WFO test cycles     8 x 142 bars (29 weeks)
+Training cycles     9 x 427 bars (88 weeks)
 Monte Carlo cycles  200
 Assumed slippage    10.0 sec
 
-Gross win/loss      19492$ / -15777$ (+56984p)
-Average profit      859$/year, 72$/month, 3.31$/day
-Max drawdown        -2109$ 57% (MAE -2320$ 62%)
-Total down time     90% (TAE 94%)
-Max down time       48 weeks from Dec 2013
-Max open margin     198$
-Max open risk       1698$
-Trade volume        4539605$ (1050117$/year)
-Transaction costs   -65$ spr, -80$ slp, 20$ rol
-Capital required    1955$
+Gross win/loss      18355$ / -9983$ (-1094p)
+Average profit      1902$/year, 158$/month, 7.31$/day
+Max drawdown        -1669$ 20% (MAE -1751$ 21%)
+Total down time     65% (TAE 90%)
+Max down time       77 weeks from Nov 2014
+Max open margin     193$
+Max open risk       3933$
+Trade volume        1135918$ (258025$/year)
+Transaction costs   -756$ spr, -387$ slp, 113$ rol
+Capital required    1571$
 
-Number of trades    215 (50/year, 1/week, 1/day)
-Percent winning     46.0%
-Max win/loss        936$ / -459$
-Avg trade profit    17$ 265.0p (+3019.7p / -2085.9p)
-Avg trade slippage  -0.37$ -5.7p (+4.7p / -14.5p)
-Avg trade bars      10 (+14 / -6)
+Number of trades    184 (42/year, 1/week, 1/day)
+Percent winning     50.0%
+Max win/loss        1589$ / -566$
+Avg trade profit    45$ -5.9p (+26.1p / -14.2p)
+Avg trade slippage  -2.10$ -0.3p (+0.0p / -0.6p)
+Avg trade bars      12 (+15 / -8)
 Max trade bars      86 (17 weeks)
 Time in market      196%
 Max open trades     5
-Max loss streak     10 (uncorrelated 9)
+Max loss streak     9 (uncorrelated 8)
 
-Annual return       44%
-Profit factor       1.24 (PRR 1.02)
-Sharpe ratio        0.44
-Kelly criterion     0.42
-R2 coefficient      0.629
-Ulcer index         26.2%
-Prediction error    33%
+Annual return       121%
+Profit factor       1.84 (PRR 1.49)
+Sharpe ratio        1.10
+Kelly criterion     1.00
+R2 coefficient      0.544
+Ulcer index         8.6%
+Prediction error    50%
 
 Confidence level     AR   DDMax  Capital
 
- 10%                 46%  2004$  1867$
- 20%                 42%  2202$  2032$
- 30%                 40%  2366$  2169$
- 40%                 36%  2658$  2412$
- 50%                 31%  3049$  2738$
- 60%                 29%  3294$  2942$
- 70%                 26%  3669$  3255$
- 80%                 22%  4394$  3858$
- 90%                 19%  5336$  4643$
- 95%                 15%  6571$  5672$
-100%                  8%  13228$  11217$
+ 10%                169%  1128$  1124$
+ 20%                150%  1307$  1272$
+ 30%                142%  1388$  1339$
+ 40%                136%  1456$  1395$
+ 50%                130%  1538$  1463$
+ 60%                119%  1700$  1596$
+ 70%                108%  1902$  1763$
+ 80%                101%  2055$  1890$
+ 90%                 90%  2335$  2121$
+ 95%                 82%  2586$  2327$
+100%                 57%  3831$  3355$
 
 Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
 
-NAS100 avg          .019  1.68   20/12    50.9  ///\//\/
-SPX500 avg          .065  2.69   19/10    36.0  ///\//\/
-US30 avg            .001  1.07   23/37    19.4  \///\\/\
-XAG/USD avg         .928  2.18   20/24     1.2  //XX/XX\
-XAU/USD avg         .022  0.88   17/33    -7.3  \XX\XX\/
+NAS100 avg          .086  3.59   18/11    28.9  /.//////
+SPX500 avg          .041  2.17   16/14    17.9  ////\//\
+US30 avg            .045  2.56   18/11    21.6  //\/////
+XAG/USD avg         .016  1.60   20/23    33.5  X/XX/X\X
+XAU/USD avg         .050  0.92   20/33    -1.9  X/XXXX\/
 
-NAS100              .039  1.68   20/12    50.9  ///\//\/
-NAS100:L            .039  1.68   20/12    50.9  ///\//\/
+NAS100              .173  3.59   18/11    28.9  /.//////
+NAS100:L            .173  3.59   18/11    28.9  /.//////
 NAS100:S            .000  ----    0/0      0.0  ........
-SPX500              .131  2.69   19/10    36.0  ///\//\/
-SPX500:L            .131  2.69   19/10    36.0  ///\//\/
+SPX500              .083  2.17   16/14    17.9  ////\//\
+SPX500:L            .083  2.17   16/14    17.9  ////\//\
 SPX500:S            .000  ----    0/0      0.0  ........
-US30                .003  1.07   23/37    19.4  \///\\/\
-US30:L              .003  1.07   23/37    19.4  \///\\/\
+US30                .091  2.56   18/11    21.6  //\/////
+US30:L              .091  2.56   18/11    21.6  //\/////
 US30:S              .000  ----    0/0      0.0  ........
-XAG/USD             .999  2.18   20/24     1.2  //XX/XX\
-XAG/USD:L           .858  1.35    9/14     0.2  //\//\\\
-XAG/USD:S           .999  3.52   11/10     1.0  ///\///\
-XAU/USD             .000  0.88   17/33    -7.3  \XX\XX\/
-XAU/USD:L           .000  0.61    8/20   -16.0  \/\\/\\/
-XAU/USD:S           .044  1.48    9/13     8.7  \\/\\/\/
+XAG/USD             .013  1.60   20/23    33.5  X/XX/X\X
+XAG/USD:L           .001  1.01   10/13     0.5  \/\//\\\
+XAG/USD:S           .032  2.54   10/10    33.1  ///\//\X
+XAU/USD             .000  0.92   20/33    -1.9  X/XXXX\/
+XAU/USD:L           .000  0.54    8/22    -7.9  \/\\/\\/
+XAU/USD:S           .101  2.08   12/11     6.0  ////\/\/

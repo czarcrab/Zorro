@@ -1,0 +1,103 @@
+Test Z8 portfolio
+
+Simulated account   AssetsZ8 (NFA)
+Bar period          24 hours (avg 2088 min)
+Test period         03.01.2011-30.06.2016 (1382 bars)
+Lookback period     252 bars (52 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+
+Gross win/loss      14292$ / -2597$ (+268317p)
+Average profit      2130$/year, 178$/month, 8.19$/day
+Max drawdown        -861$ 7% (MAE -1690$ 14%)
+Total down time     2% (TAE 81%)
+Max down time       21 weeks from Aug 2011
+Max open margin     5446$
+Max open risk       214$
+Trade volume        213708$ (38931$/year)
+Transaction costs   -51$ spr, 2.59$ slp, 0.00$ rol, -102$ com
+Capital required    6083$
+
+Number of trades    559 (102/year, 2/week, 1/day)
+Percent winning     77.5%
+Max win/loss        396$ / -208$
+Avg trade profit    21$ 480.0p (+757.3p / -472.9p)
+Avg trade slippage  0.00$ 0.1p (+0.3p / -0.7p)
+Avg trade bars      150 (+91 / -40)
+Max trade bars      1256 (260 weeks)
+Time in market      6084%
+Max open trades     53
+Max loss streak     19 (uncorrelated 4)
+
+Annual return       35%
+Profit factor       5.50 (PRR 4.81)
+Sharpe ratio        1.37
+Kelly criterion     5.43
+R2 coefficient      0.960
+Ulcer index         4.0%
+Prediction error    36%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 39%   105$  5524$
+ 20%                 38%   204$  5597$
+ 30%                 38%   303$  5670$
+ 40%                 38%   310$  5675$
+ 50%                 38%   310$  5675$
+ 60%                 38%   310$  5675$
+ 70%                 38%   310$  5675$
+ 80%                 38%   310$  5675$
+ 90%                 37%   345$  5701$
+ 95%                 37%   415$  5753$
+100%                 36%   551$  5854$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+AGG avg             .999  98.53   13/2     4.1  
+DIA avg             .999  11.51   38/7    11.2  
+EWJ avg             .000  0.65   24/18    -1.4  
+IVV avg             .455  1.11   27/8      0.5  
+IWM avg             .000  0.00    0/2     -0.1  
+IYR avg             .002  1.24   22/16     0.7  
+KBE avg             .001  1.28    5/5      0.2  
+KRE avg             .999  34.74    6/4     1.8  
+LQD avg             .999  748.27   20/2    7.1  
+QQQ avg             .999  8.61   10/3      3.8  
+SMH avg             .999  2.60    3/4      0.4  
+SSO avg             .000  ----    0/0      0.0  
+TLT avg             .999  ++++   36/0     13.7  
+VNQ avg             .928  3.01   19/12     4.1  
+XHB avg             .000  0.35    1/2     -0.1  
+XLB avg             .000  0.12    1/3     -0.1  
+XLF avg             .000  0.10    1/2     -0.1  
+XLI avg             .999  7.09    7/6      1.4  
+XLK avg             .999  30.46   29/6     8.1  
+XLP avg             .999  76.45   47/3    13.5  
+XLU avg             .999  66.76   52/6    15.3  
+XLV avg             .999  26.80   39/2    13.9  
+XLY avg             .999  1.89   17/6      2.1  
+XRT avg             .000  0.88   16/7     -0.2  
+
+AGG:L               .999  98.53   13/2     4.1  
+DIA:L               .999  11.51   38/7    11.2  
+EWJ:L               .000  0.65   24/18    -1.4  
+IVV:L               .455  1.11   27/8      0.5  
+IWM:L               .000  0.00    0/2     -0.1  
+IYR:L               .002  1.24   22/16     0.7  
+KBE:L               .001  1.28    5/5      0.2  
+KRE:L               .999  34.74    6/4     1.8  
+LQD:L               .999  748.27   20/2    7.1  
+QQQ:L               .999  8.61   10/3      3.8  
+SMH:L               .999  2.60    3/4      0.4  
+TLT:L               .999  ++++   36/0     13.7  
+VNQ:L               .928  3.01   19/12     4.1  
+XHB:L               .000  0.35    1/2     -0.1  
+XLB:L               .000  0.12    1/3     -0.1  
+XLF:L               .000  0.10    1/2     -0.1  
+XLI:L               .999  7.09    7/6      1.4  
+XLK:L               .999  30.46   29/6     8.1  
+XLP:L               .999  76.45   47/3    13.5  
+XLU:L               .999  66.76   52/6    15.3  
+XLV:L               .999  26.80   39/2    13.9  
+XLY:L               .999  1.89   17/6      2.1  
+XRT:L               .000  0.88   16/7     -0.2  

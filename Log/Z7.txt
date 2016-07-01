@@ -2,83 +2,83 @@ Walk-Forward Test Z7 portfolio
 
 Simulated account   AssetsFix 
 Bar period          1 hour (avg 86 min)
-Simulation period   31.01.2006-26.04.2016 (61923 bars)
-Test period         15.03.2011-26.04.2016 (30962 bars)
+Simulation period   31.01.2006-07.06.2016 (62625 bars)
+Test period         05.04.2011-07.06.2016 (31313 bars)
 Lookback period     480 bars (28 days)
-WFO test cycles     19 x 1630 bars (14 weeks)
-Training cycles     20 x 30961 bars (267 weeks)
+WFO test cycles     19 x 1648 bars (14 weeks)
+Training cycles     20 x 31312 bars (270 weeks)
 Monte Carlo cycles  200
 Assumed slippage    10.0 sec
 
-Gross win/loss      5127$ / -3790$ (+5279p)
-Average profit      261$/year, 22$/month, 1.01$/day
-Max drawdown        -189$ 14% (MAE -200$ 15%)
-Total down time     88% (TAE 35%)
-Max down time       31 weeks from Apr 2015
-Max open margin     296$
-Max open risk       148$
-Trade volume        3889312$ (760443$/year)
-Transaction costs   -157$ spr, -48$ slp, -1.46$ rol, -184$ com
-Capital required    440$
+Gross win/loss      11123$ / -8240$ (+5742p)
+Average profit      557$/year, 46$/month, 2.14$/day
+Max drawdown        -355$ 12% (MAE -374$ 13%)
+Total down time     87% (TAE 35%)
+Max down time       33 weeks from Apr 2015
+Max open margin     286$
+Max open risk       313$
+Trade volume        8944125$ (1729326$/year)
+Transaction costs   -283$ spr, -106$ slp, -0.14$ rol, -511$ com
+Capital required    556$
 
-Number of trades    2084 (408/year, 8/week, 2/day)
-Percent winning     61.4%
-Max win/loss        93$ / -46$
-Avg trade profit    0.64$ 2.5p (+15.8p / -18.6p)
-Avg trade slippage  -0.02$ -0.1p (+0.2p / -0.6p)
+Number of trades    2103 (407/year, 8/week, 2/day)
+Percent winning     61.0%
+Max win/loss        197$ / -106$
+Avg trade profit    1.37$ 2.7p (+17.3p / -20.0p)
+Avg trade slippage  -0.05$ -0.1p (+0.3p / -0.7p)
 Avg trade bars      5 (+4 / -6)
 Max trade bars      20 (20 hours)
 Time in market      34%
 Max open trades     4
 Max loss streak     8 (uncorrelated 8)
 
-Annual return       59%
+Annual return       100%
 Profit factor       1.35 (PRR 1.27)
-Sharpe ratio        1.53
-Kelly criterion     3.95
-R2 coefficient      0.907
-Ulcer index         4.6%
-Prediction error    52%
-Cycle performance   1.41 1.33 1.30 1.38 
+Sharpe ratio        1.59
+Kelly criterion     2.53
+R2 coefficient      0.902
+Ulcer index         4.5%
+Prediction error    49%
+Cycle performance   1.38 1.34 1.30 1.38 
 
 Confidence level     AR   DDMax  Capital
 
- 10%                 71%    97$  370$
- 20%                 70%   103$  375$
- 30%                 69%   111$  381$
- 40%                 68%   117$  386$
- 50%                 67%   126$  392$
- 60%                 66%   135$  399$
- 70%                 64%   146$  408$
- 80%                 63%   157$  416$
- 90%                 60%   179$  433$
- 95%                 59%   197$  447$
-100%                 51%   283$  513$
+ 10%                130%   187$  428$
+ 20%                127%   199$  438$
+ 30%                124%   215$  450$
+ 40%                122%   225$  458$
+ 50%                120%   235$  465$
+ 60%                118%   244$  472$
+ 70%                114%   267$  490$
+ 80%                112%   281$  500$
+ 90%                105%   324$  533$
+ 95%                 99%   365$  564$
+100%                 89%   447$  626$
 
 Portfolio analysis  OptF  ProF  Win/Loss  Wgt%  Cycles
 
-EUR/USD avg         .389  1.37  1523/894  204.5  XXXXXXXXXXXXXXXXXXX
-GBP/USD avg         .249  1.22  1996/1151   92.7  XXXXXXXXXXXXXXXXXXX
-USD/JPY avg         .499  1.67  1601/1171  102.9  XXXXXXXX/XXXXXXXXXX
+EUR/USD avg         .242  1.37  1519/933  177.7  XXXXXXXXXXXXXXXXXXX
+GBP/USD avg         .256  1.20  2028/1125   91.3  XXXXXXXXXXXXXXXXXXX
+USD/JPY avg         .469  1.69  1581/1226  130.9  XXXXXXXXXXXXXXXXXXX
 
-PA avg              .250  1.11  4535/2850   98.4  XXXXXXXXXXXXXXXXXXX
-PG avg              .638  2.13  585/366  301.6  XXX/XXXXXXXXXX/XXXX
+PA avg              .219  1.11  4528/2917   95.1  XXXXXXXXXXXXXXXXXXX
+PG avg              .507  2.17  600/367  304.9  XXX/XXXXXXXXX/XXXXX
 
-EUR/USD:PA          .336  1.20  1274/757   89.9  XXXXXXXXXXXXXXXXXXX
-EUR/USD:PA:L        .000  0.85  252/197  -15.5  XXX\XX/XXXXX\XXXXXX
-EUR/USD:PA:S        .506  1.31  1022/560  105.4  XXX//X\XXX/XXXXXX/X
-EUR/USD:PG          .999  2.05  249/137  114.6  ////\/XXX\/X/\/XXX\
-EUR/USD:PG:L        .832  1.72   92/76    42.2  //././//\\/\...\\X\
-EUR/USD:PG:S        .999  2.44  157/61    72.4  .///\/XX/\///\////.
-GBP/USD:PA          .000  0.95  1816/1047  -15.3  XXXXXXXXXXXXXXXXXXX
-GBP/USD:PA:L        .000  0.93  768/427  -10.3  \XXXX/XXXX/XXXXX\XX
-GBP/USD:PA:S        .000  0.97  1048/620   -4.9  XXX//\X/X\XXXXXXXX\
-GBP/USD:PG          .999  2.27  180/104  108.0  XXX///XX///\X//XX/X
-GBP/USD:PG:L        .000  0.76   66/66   -15.2  X\\///X\.//\\..\\.X
-GBP/USD:PG:S        .999  6.56  114/38   123.2  ./X//.///...///////
-USD/JPY:PA          .999  1.30  1445/1046   23.8  XXXXXXXX/XXXXXXXXXX
-USD/JPY:PA:L        .999  1.77  1000/603   34.6  X/X/X/X/////X/XX/XX
-USD/JPY:PA:S        .000  0.70  445/443  -10.8  \\/XX\\X/X\X/X/XXXX
-USD/JPY:PG          .999  2.08  156/125   79.0  /\X//X///X\\X//X\X\
-USD/JPY:PG:L        .999  3.09  120/72    94.1  ..\/.\////\\\///\/.
-USD/JPY:PG:S        .000  0.47   36/53   -15.1  /\/.//...\.\/..\\\\
+EUR/USD:PA          .281  1.16  1268/798   59.7  XXXXXXXXXXXXXXXXXXX
+EUR/USD:PA:L        .000  0.83  253/220  -14.8  \XX\XXXXXXXX\X/XXXX
+EUR/USD:PA:S        .344  1.26  1015/578   74.5  XXX//\XXXXXXX/X/XXX
+EUR/USD:PG          .535  2.00  251/135  118.0  ////\X/XX\/X//XXX\/
+EUR/USD:PG:L        .415  1.62   90/74    39.3  /.././/.\\/\..\X\\/
+EUR/USD:PG:S        .696  2.44  161/61    78.7  .//.\X.XX.///////\/
+GBP/USD:PA          .205  1.01  1847/1018    2.2  XXXXXXXXXXXXXXXXXXX
+GBP/USD:PA:L        .000  0.96  773/410   -6.2  XXXX\X\/XX/X\XXX\XX
+GBP/USD:PA:S        .205  1.04  1074/608    8.5  /X/XX\XXX\XX//XXX\X
+GBP/USD:PG          .692  2.29  181/107   89.1  XXX///XXX/\\///\X/\
+GBP/USD:PG:L        .000  0.76   67/69   -12.4  X\\/./X\\/\\...\\.\
+GBP/USD:PG:S        .821  6.83  114/38   101.5  ./X./////...///.//.
+USD/JPY:PA          .651  1.28  1413/1101   33.2  XXXXXXXXXXXXXXXXXXX
+USD/JPY:PA:L        .770  1.65  981/644   44.7  /XX/\X//X//XX/\/XX/
+USD/JPY:PA:S        .000  0.76  432/457  -11.5  X\/\X\\X/\XXXXX\XXX
+USD/JPY:PG          .754  2.33  168/125   97.7  /\X//X///\XXX/X\X\/
+USD/JPY:PG:L        .821  3.03  120/72    91.6  ..\/.X///\X\X//\/..
+USD/JPY:PG:S        .288  1.22   48/53     6.1  /\/.//...\\X..\.\\/

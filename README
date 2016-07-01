@@ -1,0 +1,6 @@
+Broad Understanding:
+
+*.fac file has capital allocation factors. It's format is:
+Asset Name:Algo:L/S,   OptimalF factors,  Profit Factor,  Win/Loss, Weight
+
+Last 3 are not used in Strategies.

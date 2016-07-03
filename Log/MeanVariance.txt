@@ -1,0 +1,100 @@
+Test MeanVariance portfolio
+
+Simulated account   AssetsZ8.csv 
+Bar period          24 hours (avg 2087 min)
+Test period         14.07.2010-01.07.2016 (1503 bars)
+Lookback period     132 bars (27 weeks)
+Monte Carlo cycles  200
+Assumed slippage    10.0 sec
+
+Gross win/loss      116343$ / -14584$ (+340067p)
+Average profit      17057$/year, 1421$/month, 66$/day
+Max drawdown        -505$ 0% (MAE -13235$ 13%)
+Total down time     0% (TAE 82%)
+Max down time       16 weeks from Dec 2015
+Max open margin     55029$
+Max open risk       2120$
+Trade volume        1440885$ (241525$/year)
+Transaction costs   -354$ spr, 10$ slp, 0.00$ rol, -707$ com
+Capital required    55387$
+
+Number of trades    550 (93/year, 2/week, 1/day)
+Percent winning     80.9%
+Max win/loss        9840$ / -1151$
+Avg trade profit    185$ 618.3p (+873.7p / -464.2p)
+Avg trade slippage  0.02$ 0.1p (+0.3p / -0.8p)
+Avg trade bars      282 (+136 / -63)
+Max trade bars      1489 (308 weeks)
+Time in market      10351%
+Max open trades     70
+Max loss streak     7 (uncorrelated 4)
+
+Annual return       31%
+Profit factor       7.98 (PRR 6.92)
+Sharpe ratio        1.67
+Kelly criterion     9.12
+R2 coefficient      0.960
+Ulcer index         3.7%
+Prediction error    38%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                 31%   327$  55261$
+ 20%                 31%   357$  55282$
+ 30%                 31%   378$  55297$
+ 40%                 31%   396$  55310$
+ 50%                 31%   415$  55323$
+ 60%                 31%   463$  55357$
+ 70%                 31%   510$  55391$
+ 80%                 31%   575$  55437$
+ 90%                 31%   684$  55514$
+ 95%                 31%   783$  55584$
+100%                 31%  1090$  55802$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+AGG avg             .999  ++++   64/0      9.8  
+DIA avg             .999  2.24   23/10     1.7  
+EWJ avg             .999  1.30   24/12     0.3  
+IVV avg             .000  ----    0/0      0.0  
+IWM avg             .999  2.26    2/1      0.1  
+IYR avg             .999  24.59   12/2     2.2  
+KBE avg             .329  1.39   21/7      0.8  
+KRE avg             .467  8.31    8/7      4.1  
+LQD avg             .999  ++++   67/0     17.1  
+QQQ avg             .000  ----    0/0      0.0  
+SMH avg             .999  8.02    8/5      1.3  
+SSO avg             .000  ----    0/0      0.0  
+TLT avg             .999  8.38   50/20    22.4  
+VNQ avg             .999  7.52    6/1      0.4  
+XHB avg             .999  439.80    5/1    0.5  
+XLB avg             .000  0.21    3/1     -0.4  
+XLF avg             .000  ----    0/0      0.0  
+XLI avg             .000  0.03    2/1     -0.4  
+XLK avg             .999  103.87   15/1    4.3  
+XLP avg             .999  24.82   52/9    17.7  
+XLU avg             .999  11.29   32/6     8.3  
+XLV avg             .999  8.98   33/5      9.5  
+XLY avg             .000  0.73    5/6     -0.5  
+XRT avg             .999  2.18   13/10     0.7  
+
+AGG:L               .999  ++++   64/0      9.8  
+DIA:L               .999  2.24   23/10     1.7  
+EWJ:L               .999  1.30   24/12     0.3  
+IWM:L               .999  2.26    2/1      0.1  
+IYR:L               .999  24.59   12/2     2.2  
+KBE:L               .329  1.39   21/7      0.8  
+KRE:L               .467  8.31    8/7      4.1  
+LQD:L               .999  ++++   67/0     17.1  
+SMH:L               .999  8.02    8/5      1.3  
+TLT:L               .999  8.38   50/20    22.4  
+VNQ:L               .999  7.52    6/1      0.4  
+XHB:L               .999  439.80    5/1    0.5  
+XLB:L               .000  0.21    3/1     -0.4  
+XLI:L               .000  0.03    2/1     -0.4  
+XLK:L               .999  103.87   15/1    4.3  
+XLP:L               .999  24.82   52/9    17.7  
+XLU:L               .999  11.29   32/6     8.3  
+XLV:L               .999  8.98   33/5      9.5  
+XLY:L               .000  0.73    5/6     -0.5  
+XRT:L               .999  2.18   13/10     0.7  

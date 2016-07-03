@@ -1,0 +1,71 @@
+Test onc2 portfolio
+
+Simulated account   AssetsFix 
+Bar period          24 hours (avg 2026 min)
+Test period         26.04.2011-17.06.2016 (1335 bars)
+Lookback period     80 bars (16 weeks)
+Assumed slippage    10.0 sec
+
+Gross win/loss      145$ / -1386$ (-14638p)
+Average profit      -241$/year, -20$/month, -0.93$/day
+Max drawdown        -1241$ -100% (MAE -1241$ -100%)
+Total down time     99% (TAE 0%)
+Max down time       273 weeks from Apr 2011
+Max open margin     84$
+Max open risk       67$
+Trade volume        255769$ (49718$/year)
+Transaction costs   -19$ spr, 0.00$ slp, 0.00$ rol, -1512$ com
+Capital required    1032$
+
+Number of trades    252 (49/year, 1/week, 1/day)
+Percent winning     14.3%
+Max win/loss        17$ / -22$
+Avg trade profit    -4.93$ -58.1p (+47.4p / -75.7p)
+Avg trade slippage  0.00$ 0.0p (+0.0p / -0.0p)
+Avg trade bars      1 (+1 / -1)
+Max trade bars      1 (24 hours)
+Time in market      19%
+Max open trades     4
+Max loss streak     41 (uncorrelated 40)
+
+Annual return       -23%
+Profit factor       0.10 (PRR 0.08)
+Sharpe ratio        -4.24
+Kelly criterion     -76.75
+R2 coefficient      0.994
+Ulcer index         0.0%
+Prediction error    52%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                -287%     0$  84$
+ 20%                -287%     0$  84$
+ 30%                -287%     0$  84$
+ 40%                -287%     0$  84$
+ 50%                -287%     0$  84$
+ 60%                -287%     0$  84$
+ 70%                -287%     0$  84$
+ 80%                -287%     0$  84$
+ 90%                -287%     0$  84$
+ 95%                -287%     0$  84$
+100%                -287%     0$  84$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+EUR/USD avg         .000  0.18   11/53    22.5  
+GBP/USD avg         .000  0.09    9/53    26.2  
+USD/CHF avg         .000  0.06    8/55    24.8  
+USD/JPY avg         .000  0.08    8/55    26.5  
+
+EUR/USD             .000  0.18   11/53    22.5  
+EUR/USD:L           .000  0.12    4/19    10.0  
+EUR/USD:S           .000  0.23    7/34    12.6  
+GBP/USD             .000  0.09    9/53    26.2  
+GBP/USD:L           .000  0.01    2/25    15.6  
+GBP/USD:S           .000  0.19    7/28    10.6  
+USD/CHF             .000  0.06    8/55    24.8  
+USD/CHF:L           .000  0.07    6/32    15.2  
+USD/CHF:S           .000  0.06    2/23     9.6  
+USD/JPY             .000  0.08    8/55    26.5  
+USD/JPY:L           .000  0.13    7/33    13.2  
+USD/JPY:S           .000  0.02    1/22    13.3  

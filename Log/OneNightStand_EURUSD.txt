@@ -1,0 +1,61 @@
+Test OneNightStand EUR/USD
+
+Simulated account   AssetsFix 
+Bar period          1 hour (avg 85 min)
+Test period         06.01.2011-07.06.2016 (32822 bars)
+Lookback period     80 bars (3 days)
+Assumed slippage    10.0 sec
+Spread              0.5 pips (roll -0.02/0.01)
+Commission          0.60
+Contracts per lot   100000.0
+Capital invested    100000$
+
+Gross win/loss      25893$ / -124925$ (-11370p)
+Average profit      -18274$/year, -1523$/month, -70$/day
+Max drawdown        -99033$ -100% (MAE -99033$ -100%)
+Total down time     24% (TAE 0%)
+Max down time       69 weeks from Jan 2011
+Max open margin     5000$
+Max open risk       6941$
+Trade volume        27503809$ (5075114$/year)
+Transaction costs   -1002$ spr, -642$ slp, -1400$ rol, -138000$ com
+Capital required    78683$
+
+Number of trades    230 (43/year, 1/week, 1/day)
+Percent winning     26.5%
+Max win/loss        1960$ / -1428$
+Avg trade profit    -431$ -49.4p (+48.7p / -84.9p)
+Avg trade slippage  -2.79$ -0.3p (+0.8p / -0.7p)
+Avg trade bars      7 (+11 / -6)
+Max trade bars      19 (19 hours)
+Time in market      5%
+Max open trades     5
+Max loss streak     26 (uncorrelated 19)
+
+Annual growth rate  -58%
+Profit factor       0.21 (PRR 0.17)
+Sharpe ratio        -2.42
+Kelly criterion     -32.30
+R2 coefficient      0.969
+Ulcer index         0.0%
+Prediction error    47%
+
+Confidence level     AR   DDMax  Capital
+
+ 10%                -365%     0$  5000$
+ 20%                -365%     0$  5000$
+ 30%                -365%     0$  5000$
+ 40%                -365%     0$  5000$
+ 50%                -365%     0$  5000$
+ 60%                -365%     0$  5000$
+ 70%                -365%     0$  5000$
+ 80%                -365%     0$  5000$
+ 90%                -365%     0$  5000$
+ 95%                -365%     0$  5000$
+100%                -365%     0$  5000$
+
+Portfolio analysis  OptF  ProF  Win/Loss  Wgt%
+
+EUR/USD             .1000  0.21   61/169  100.0  
+EUR/USD:L           .1000  0.10   28/100   70.8  
+EUR/USD:S           .1000  0.39   33/69   29.2  

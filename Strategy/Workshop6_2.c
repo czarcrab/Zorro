@@ -43,10 +43,10 @@ function run()
 	NumCores = -2;		// use multiple cores (Zorro S only)
 	BarPeriod = 60;	// 1 hour bars
 	LookBack = 2000;	// needed for Fisher()
-	StartDate = 2005;
-	EndDate = 2015; 	// fixed simulation period
+	StartDate = 2011;
+	EndDate = 2016; 	// fixed simulation period
 	NumWFOCycles = 10; // activate WFO
-	Capital = 10000;		// reinvestment mode
+	Capital = 100000;		// reinvestment mode
 	
 	if(ReTrain) {
 		UpdateDays = -1;	// update price data from the server 
@@ -55,7 +55,7 @@ function run()
 	}
 	
 // portfolio loop
-	while(asset(loop("EUR/USD","USD/JPY")))
+	while(asset(loop("EUR/USD","USD/JPY","USD/CAD","GBP/USD","AUD/USD")))
 	while(algo(loop("TRND","CNTR")))
 	{
 // method 1: invest the square root of the component profit		

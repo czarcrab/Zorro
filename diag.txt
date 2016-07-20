@@ -1,2 +1,55 @@
 
 Unload prices 
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+Unload prices 
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Time 00:01:45
+Open: Log\Assets.csv wb
+Chart... ok
+Portfolio
+
+xxx
+Open: Log\Assets.csv wb
+
+xxx
+Exit State 0 TA-Lib Series Statistics Performance
+Raus
+Neural
+Close files
+xxx
+Unload prices 
+Exit State 0 TA-Lib Series Statistics Performance
+Profit -6253$  MI -155$  DD 8141$  Capital 106818$
+Trades 15  Win 20.0§  Avg -18.8p  Bars 8
+AR -2§  PF 0.25  SR 0.09  UI 0§  R2 0.00
+Raus
+Neural
+Close files
+xxx
+Unload prices 
+Open: Log\Assets.csv wb
+
+xxx

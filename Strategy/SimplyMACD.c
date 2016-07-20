@@ -3,37 +3,30 @@
 
 function run()
 {
-	StartDate = 2012;
-	BarPeriod	= 1;
-  //LookBack = 60;
 
-	while (asset(loop("EUR/USD"))) {
-	var FastPeriod, SlowPeriod, SignalPeriod;
-	// FastPeriod = slider(1,0,1,10,"Fast","Fast Period");
-	//SlowPeriod = slider(2,0,10,40,"Slow","Slow Period");
-	//SignalPeriod = slider(3,0,1,10,"Signal","Signal Period");
-	FastPeriod = 4;
-	SlowPeriod = 22;
-	SignalPeriod = 3;
+        set(PARAMETERS);
 
-	vars Data = series(price());
-  // Creating MACD instead of using the build in function as this provides
-	// flexibility of using EMA or SMA (which I prefer) for Signal
-	var *rMACD = series(EMA(Data,FastPeriod)-EMA(Data,SlowPeriod));
-	var *rMACDSignal = series(EMA(&rMACD,SignalPeriod));
-	var *rMACDHist = series(rMACD - rMACDSignal);
+        LookBack = 1000;
+        //StartDate = 2014;
+        BarPeriod	= 60;
+        NumWFOCycles = 10;
 
-	if(crossOver(&rMACD,&rMACDSignal)) {
-		//reverseShort(10);
-		exitShort();
-		enterLong();
-	}
-	if(crossUnder(&rMACD,&rMACDSignal)) {
-		//reverseLong(10);
-		exitLong();
-		enterShort();
-	}
+        vars Price = series(price(0));
 
-	}
-	set(LOGFILE);
+        Stop = optimize(4,2,10) * ATR(100);
+        Trail = optimize(1,0.2,3,0.2) * ATR(100);
+
+        vars m = series(EMA(Price,optimize(12,3,12,1))-EMA(Price,optimize(26,12,36,1))); // Macd
+        vars mSignal = series(SMA(m, optimize(9,3,10,1))); // Macd signal
+
+        vars MMI_Raw = series(MMI(Price,optimize(300,100,1000,100,-1)));
+        vars MMI_Smooth = series(LowPass(MMI_Raw,optimize(500,100,1000,100,-1)));
+
+        if(falling(MMI_Smooth)) {
+                if(crossOver(m,mSignal))
+                        enterLong();
+                else if(crossUnder(m,mSignal))
+                        enterShort();
+        }
+
 }

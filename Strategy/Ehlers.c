@@ -1,7 +1,7 @@
 // Strategy from "Predictive Indicators for Effective Trading Strategies"
 // by John Ehlers
 
-//#define USE_PREDICT
+#define USE_PREDICT
 
 function run() 
 {
